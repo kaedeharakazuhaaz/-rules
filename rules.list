@@ -34,21 +34,21 @@ DOMAIN-SUFFIX,rawgithub.com,🚀 国外流量
 DOMAIN-SUFFIX,repo.new,🚀 国外流量
 DOMAIN-SUFFIX,thegithubshop.com,🚀 国外流量
 DOMAIN-KEYWORD,github,🚀 国外流量
-DOMAIN,noak.me,🎯 国内流量
-DOMAIN-SUFFIX,noak.me,🎯 国内流量
-DOMAIN-SUFFIX,oray.net,🎯 国内流量
-IP-CIDR,34.150.118.205/32,🎯 国内流量,no-resolve
-IP-CIDR,34.92.109.8/32,🎯 国内流量,no-resolve
-IP-CIDR,199.15.79.112/32,🎯 国内流量,no-resolve
-IP-CIDR,199.15.77.199/32,🎯 国内流量,no-resolve
-IP-CIDR,199.15.77.232/32,🎯 国内流量,no-resolve
-IP-CIDR,103.135.250.65/32,🎯 国内流量,no-resolve
-DOMAIN,api.nopecha.com,🎯 国内流量
-DOMAIN,www2.deepl.com,🎯 国内流量
-DOMAIN-SUFFIX,quickconnect.to,🎯 国内流量
-DOMAIN-SUFFIX,akamai.com,🎯 国内流量
-DOMAIN-SUFFIX,dyndns.com,🎯 国内流量
-DOMAIN-SUFFIX,dyndns.org,🎯 国内流量
+DOMAIN,noak.me,DIRECT
+DOMAIN-SUFFIX,noak.me,DIRECT
+DOMAIN-SUFFIX,oray.net,DIRECT
+IP-CIDR,34.150.118.205/32,DIRECT,no-resolve
+IP-CIDR,34.92.109.8/32,DIRECT,no-resolve
+IP-CIDR,199.15.79.112/32,DIRECT,no-resolve
+IP-CIDR,199.15.77.199/32,DIRECT,no-resolve
+IP-CIDR,199.15.77.232/32,DIRECT,no-resolve
+IP-CIDR,103.135.250.65/32,DIRECT,no-resolve
+DOMAIN,api.nopecha.com,DIRECT
+DOMAIN,www2.deepl.com,DIRECT
+DOMAIN-SUFFIX,quickconnect.to,DIRECT
+DOMAIN-SUFFIX,akamai.com,DIRECT
+DOMAIN-SUFFIX,dyndns.com,DIRECT
+DOMAIN-SUFFIX,dyndns.org,DIRECT
 DOMAIN,gw.sky-ip.net,🚀 国外流量
 DOMAIN-SUFFIX,gw.sky-ip.net,🚀 国外流量
 IP-CIDR,207.148.64.114/32,🚀 国外流量,no-resolve
@@ -60,170 +60,170 @@ DOMAIN-SUFFIX,binance.com,🚀 国外流量
 DOMAIN-SUFFIX,bnbstatic.com,🚀 国外流量
 DOMAIN-SUFFIX,livednow.com,🚀 国外流量
 DOMAIN-SUFFIX,openai.com,🧚 OpenAI
-DOMAIN,asusrouter.com,🎯 国内流量
-DOMAIN,cp.cloudflare.com,🎯 国内流量
-DOMAIN,detectportal.firefox.com,🎯 国内流量
-DOMAIN,instant.arubanetworks.com,🎯 国内流量
-DOMAIN,router.asus.com,🎯 国内流量
-DOMAIN,setmeup.arubanetworks.com,🎯 国内流量
-DOMAIN,www.asusrouter.com,🎯 国内流量
-DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,0.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,10.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,100.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,100.51.198.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,101.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,102.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,103.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,104.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,105.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,106.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,107.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,108.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,109.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,110.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,111.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,112.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,113.0.203.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,113.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,114.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,115.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,116.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,117.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,118.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,119.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,120.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,121.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,122.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,123.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,124.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,125.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,126.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,127.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,127.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,16.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,168.192.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,17.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,18.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,19.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,2.0.192.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,20.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,21.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,22.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,23.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,24.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,25.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,254.169.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,26.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,27.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,28.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,29.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,30.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,31.172.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,64.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,65.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,66.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,67.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,68.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,69.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,70.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,71.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,72.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,73.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,74.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,75.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,76.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,77.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,78.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,79.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,8.e.f.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,80.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,81.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,82.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,83.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,84.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,85.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,86.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,87.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,88.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,89.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,9.e.f.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,90.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,91.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,92.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,93.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,94.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,95.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,96.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,97.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,98.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,99.100.in-addr.arpa,🎯 国内流量
-DOMAIN-SUFFIX,a.e.f.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,acl4.ssr,🎯 国内流量
-DOMAIN-SUFFIX,b.e.f.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,captive.apple.com,🎯 国内流量
-DOMAIN-SUFFIX,connectivitycheck.gstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,d.f.ip6.arpa,🎯 国内流量
-DOMAIN-SUFFIX,hiwifi.com,🎯 国内流量
-DOMAIN-SUFFIX,home.arpa,🎯 国内流量
-DOMAIN-SUFFIX,leike.cc,🎯 国内流量
-DOMAIN-SUFFIX,localhost.ptlogin2.qq.com,🎯 国内流量
-DOMAIN-SUFFIX,localhost.sec.qq.com,🎯 国内流量
-DOMAIN-SUFFIX,msftconnecttest.com,🎯 国内流量
-DOMAIN-SUFFIX,msftncsi.com,🎯 国内流量
-DOMAIN-SUFFIX,my.router,🎯 国内流量
-DOMAIN-SUFFIX,networkcheck.kde.org,🎯 国内流量
-DOMAIN-SUFFIX,p.to,🎯 国内流量
-DOMAIN-SUFFIX,peiluyou.com,🎯 国内流量
-DOMAIN-SUFFIX,phicomm.me,🎯 国内流量
-DOMAIN-SUFFIX,plex.direct,🎯 国内流量
-DOMAIN-SUFFIX,router.ctc,🎯 国内流量
-DOMAIN-SUFFIX,routerlogin.com,🎯 国内流量
-DOMAIN-SUFFIX,tendawifi.com,🎯 国内流量
-DOMAIN-SUFFIX,tplinkwifi.net,🎯 国内流量
-DOMAIN-SUFFIX,tplogin.cn,🎯 国内流量
-DOMAIN-SUFFIX,ts.net,🎯 国内流量
-DOMAIN-SUFFIX,wifi.cmcc,🎯 国内流量
-DOMAIN-SUFFIX,zte.home,🎯 国内流量
-IP-CIDR,0.0.0.0/8,🎯 国内流量
-IP-CIDR,10.0.0.0/8,🎯 国内流量
-IP-CIDR,100.64.0.0/10,🎯 国内流量
-IP-CIDR,127.0.0.0/8,🎯 国内流量
-IP-CIDR,169.254.0.0/16,🎯 国内流量
-IP-CIDR,172.16.0.0/12,🎯 国内流量
-IP-CIDR,192.0.0.0/24,🎯 国内流量
-IP-CIDR,192.0.2.0/24,🎯 国内流量
-IP-CIDR,192.168.0.0/16,🎯 国内流量
-IP-CIDR,192.88.99.0/24,🎯 国内流量
-IP-CIDR,198.18.0.0/15,🎯 国内流量
-IP-CIDR,198.51.100.0/24,🎯 国内流量
-IP-CIDR,203.0.113.0/24,🎯 国内流量
-IP-CIDR,224.0.0.0/3,🎯 国内流量
-IP6-CIDR,::/127,🎯 国内流量
-IP6-CIDR,fc00::/7,🎯 国内流量
-IP6-CIDR,fe80::/10,🎯 国内流量
-IP6-CIDR,ff00::/8,🎯 国内流量
-DOMAIN-SUFFIX,ol.epicgames.com,🎯 国内流量
-DOMAIN-SUFFIX,dizhensubao.getui.com,🎯 国内流量
-DOMAIN,dl.google.com,🎯 国内流量
-DOMAIN-SUFFIX,googletraveladservices.com,🎯 国内流量
-DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,🎯 国内流量
-DOMAIN,origin-a.akamaihd.net,🎯 国内流量
-DOMAIN,fairplay.l.qq.com,🎯 国内流量
-DOMAIN,livew.l.qq.com,🎯 国内流量
-DOMAIN,vd.l.qq.com,🎯 国内流量
-DOMAIN,errlog.umeng.com,🎯 国内流量
-DOMAIN,msg.umeng.com,🎯 国内流量
-DOMAIN,msg.umengcloud.com,🎯 国内流量
-DOMAIN,tracking.miui.com,🎯 国内流量
-DOMAIN,app.adjust.com,🎯 国内流量
-DOMAIN,bdtj.tagtic.cn,🎯 国内流量
-DOMAIN,rewards.hypixel.net,🎯 国内流量
-DOMAIN-SUFFIX,koodomobile.com,🎯 国内流量
-DOMAIN-SUFFIX,koodomobile.ca,🎯 国内流量
+DOMAIN,asusrouter.com,DIRECT
+DOMAIN,cp.cloudflare.com,DIRECT
+DOMAIN,detectportal.firefox.com,DIRECT
+DOMAIN,instant.arubanetworks.com,DIRECT
+DOMAIN,router.asus.com,DIRECT
+DOMAIN,setmeup.arubanetworks.com,DIRECT
+DOMAIN,www.asusrouter.com,DIRECT
+DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,0.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,10.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,100.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,100.51.198.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,101.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,102.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,103.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,104.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,105.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,106.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,107.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,108.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,109.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,110.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,111.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,112.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,113.0.203.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,113.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,114.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,115.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,116.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,117.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,118.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,119.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,120.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,121.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,122.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,123.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,124.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,125.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,126.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,127.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,127.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,16.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,168.192.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,17.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,18.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,19.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,2.0.192.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,20.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,21.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,22.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,23.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,24.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,25.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,254.169.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,26.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,27.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,28.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,29.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,30.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,31.172.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,64.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,65.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,66.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,67.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,68.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,69.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,70.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,71.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,72.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,73.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,74.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,75.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,76.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,77.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,78.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,79.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,8.e.f.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,80.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,81.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,82.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,83.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,84.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,85.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,86.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,87.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,88.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,89.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,9.e.f.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,90.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,91.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,92.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,93.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,94.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,95.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,96.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,97.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,98.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,99.100.in-addr.arpa,DIRECT
+DOMAIN-SUFFIX,a.e.f.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,acl4.ssr,DIRECT
+DOMAIN-SUFFIX,b.e.f.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,captive.apple.com,DIRECT
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
+DOMAIN-SUFFIX,d.f.ip6.arpa,DIRECT
+DOMAIN-SUFFIX,hiwifi.com,DIRECT
+DOMAIN-SUFFIX,home.arpa,DIRECT
+DOMAIN-SUFFIX,leike.cc,DIRECT
+DOMAIN-SUFFIX,localhost.ptlogin2.qq.com,DIRECT
+DOMAIN-SUFFIX,localhost.sec.qq.com,DIRECT
+DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+DOMAIN-SUFFIX,msftncsi.com,DIRECT
+DOMAIN-SUFFIX,my.router,DIRECT
+DOMAIN-SUFFIX,networkcheck.kde.org,DIRECT
+DOMAIN-SUFFIX,p.to,DIRECT
+DOMAIN-SUFFIX,peiluyou.com,DIRECT
+DOMAIN-SUFFIX,phicomm.me,DIRECT
+DOMAIN-SUFFIX,plex.direct,DIRECT
+DOMAIN-SUFFIX,router.ctc,DIRECT
+DOMAIN-SUFFIX,routerlogin.com,DIRECT
+DOMAIN-SUFFIX,tendawifi.com,DIRECT
+DOMAIN-SUFFIX,tplinkwifi.net,DIRECT
+DOMAIN-SUFFIX,tplogin.cn,DIRECT
+DOMAIN-SUFFIX,ts.net,DIRECT
+DOMAIN-SUFFIX,wifi.cmcc,DIRECT
+DOMAIN-SUFFIX,zte.home,DIRECT
+IP-CIDR,0.0.0.0/8,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,169.254.0.0/16,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,192.0.0.0/24,DIRECT
+IP-CIDR,192.0.2.0/24,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,192.88.99.0/24,DIRECT
+IP-CIDR,198.18.0.0/15,DIRECT
+IP-CIDR,198.51.100.0/24,DIRECT
+IP-CIDR,203.0.113.0/24,DIRECT
+IP-CIDR,224.0.0.0/3,DIRECT
+IP6-CIDR,::/127,DIRECT
+IP6-CIDR,fc00::/7,DIRECT
+IP6-CIDR,fe80::/10,DIRECT
+IP6-CIDR,ff00::/8,DIRECT
+DOMAIN-SUFFIX,ol.epicgames.com,DIRECT
+DOMAIN-SUFFIX,dizhensubao.getui.com,DIRECT
+DOMAIN,dl.google.com,DIRECT
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,DIRECT
+DOMAIN,origin-a.akamaihd.net,DIRECT
+DOMAIN,fairplay.l.qq.com,DIRECT
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
+DOMAIN,errlog.umeng.com,DIRECT
+DOMAIN,msg.umeng.com,DIRECT
+DOMAIN,msg.umengcloud.com,DIRECT
+DOMAIN,tracking.miui.com,DIRECT
+DOMAIN,app.adjust.com,DIRECT
+DOMAIN,bdtj.tagtic.cn,DIRECT
+DOMAIN,rewards.hypixel.net,DIRECT
+DOMAIN-SUFFIX,koodomobile.com,DIRECT
+DOMAIN-SUFFIX,koodomobile.ca,DIRECT
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net,🚀 国外流量
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net,🚀 国外流量
 DOMAIN-SUFFIX,hub5pn.wap.sandai.net,🚀 国外流量
@@ -365,11 +365,11 @@ DOMAIN,zonai.skland.com,🛸 IP归属地伪装
 DOMAIN,china-img.soulapp.cn,🛸 IP归属地伪装
 DOMAIN,img.soulapp.cn,🛸 IP归属地伪装
 DOMAIN-SUFFIX,soulapp.cn,🛸 IP归属地伪装
-DOMAIN,appcloud2.in.zhihu.com,🛑 广告拦截
-DOMAIN,mqtt.zhihu.com,🛑 广告拦截
-DOMAIN,sugar.zhihu.com,🛑 广告拦截
-IP-CIDR,118.89.204.198/32,🛑 广告拦截
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,🛑 广告拦截
+DOMAIN,appcloud2.in.zhihu.com,REJECT
+DOMAIN,mqtt.zhihu.com,REJECT
+DOMAIN,sugar.zhihu.com,REJECT
+IP-CIDR,118.89.204.198/32,REJECT
+IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
 DOMAIN-SUFFIX,ggpht.cn,📹 YouTube
 DOMAIN-SUFFIX,ggpht.com,📹 YouTube
 DOMAIN-SUFFIX,googlevideo.com,📹 YouTube
@@ -2816,357 +2816,357 @@ IP6-CIDR,2620:10c:7000::/44,🚀 国外流量
 IP6-CIDR,2620:120:e000::/40,🚀 国外流量
 IP6-CIDR,2a00:86c0::/32,🚀 国外流量
 IP6-CIDR,2a03:5640::/32,🚀 国外流量
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrctt.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrctu.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjz8yzdnc31.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjz8yzdnc3t.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjzgazdrpba.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjzgazdrpbz.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com,🌏 国内媒体
-DOMAIN,0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com,🌏 国内媒体
-DOMAIN,112-81-125-43.dhost.00cdn.com,🌏 国内媒体
-DOMAIN,113-219-145-1.ksyungslb.com,🌏 国内媒体
-DOMAIN,114-236-92-129.ksyungslb.com,🌏 国内媒体
-DOMAIN,180-101-74-1.ksyungslb.com,🌏 国内媒体
-DOMAIN,1geadrmttge3nhcjwgazdope.ourdvsss.com,🌏 国内媒体
-DOMAIN,1geadrmttge3nhcjwgwzdqqe.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr3uomttgr31hcjtgezdkcy.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr4uqmtt8y41hcjigazdqca.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr4uqmtt8y41hcjigazdqce.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr4uqmtt8y41hcjigazdqco.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj38yzdcca.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj38yzdcco.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj38yzdkca.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj38yzdkco.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj38yzdkqy.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj3gczdcpa.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj3gczdcpe.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj3gczdcpo.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcj3gczdcqy.ourdvsss.com,🌏 国内媒体
-DOMAIN,1gr5dgmttgha1hcttgrzdnpo.ourdvsss.com,🌏 国内媒体
-DOMAIN,1graukmttga4nhcjtgozdgce.ourdvsss.com,🌏 国内媒体
-DOMAIN,218-91-225-1.ksyungslb.com,🌏 国内媒体
-DOMAIN,219-155-150-1.ksyungslb.com,🌏 国内媒体
-DOMAIN,222-188-6-1.ksyungslb.com,🌏 国内媒体
-DOMAIN,36-104-134-1.ksyungslb.com,🌏 国内媒体
-DOMAIN,36-25-252-1.ksyungslb.com,🌏 国内媒体
-DOMAIN,3ge3drmttga5nhcbqge3ur.ourdvsss.com,🌏 国内媒体
-DOMAIN,3geauymtsgrzdnqbofa5do.ourdvsss.com,🌏 国内媒体
-DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com,🌏 国内媒体
-DOMAIN,3geauymtsgrzdrcbzfahue.ourdvsss.com,🌏 国内媒体
-DOMAIN,3geauymtsgrzdrcbzfahuk.ourdvsss.com,🌏 国内媒体
-DOMAIN,4go41hcjtgazdoctqge4o.ourdvsss.com,🌏 国内媒体
-DOMAIN,p-bstarstatic.akamaized.net,🌏 国内媒体
-DOMAIN,p.bstarstatic.com,🌏 国内媒体
-DOMAIN,upos-bstar-mirrorakam.akamaized.net,🌏 国内媒体
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net,🌏 国内媒体
-DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net,🌏 国内媒体
-DOMAIN,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net,🌏 国内媒体
-DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net,🌏 国内媒体
-DOMAIN,api.iplay.163.com,🌏 国内媒体
-DOMAIN,aqqmusic.tc.qq.com,🌏 国内媒体
-DOMAIN,dldir1.qq.com,🌏 国内媒体
-DOMAIN,iacc.qq.com,🌏 国内媒体
-DOMAIN,ins-eeww7kom.ias.tencent-cloud.net,🌏 国内媒体
-DOMAIN,ios.video.mpush.qq.com,🌏 国内媒体
-DOMAIN,mam.netease.com,🌏 国内媒体
-DOMAIN,moo.qq.com,🌏 国内媒体
-DOMAIN,rdelivery.qq.com,🌏 国内媒体
-DOMAIN,ts.qq.com,🌏 国内媒体
-DOMAIN,v.streaming.qq.com,🌏 国内媒体
-DOMAIN,video-public-1258344701.shiply-cdn.qq.com,🌏 国内媒体
-DOMAIN,video-search-1258344701.shiply-cdn.qq.com,🌏 国内媒体
-DOMAIN,video-vip-1258344701.shiply-cdn.qq.com,🌏 国内媒体
-DOMAIN,yoo.gtimg.com,🌏 国内媒体
-DOMAIN-SUFFIX,acg.tv,🌏 国内媒体
-DOMAIN-SUFFIX,acgvideo.com,🌏 国内媒体
-DOMAIN-SUFFIX,animetamashi.cn,🌏 国内媒体
-DOMAIN-SUFFIX,animetamashi.com,🌏 国内媒体
-DOMAIN-SUFFIX,anitama.cn,🌏 国内媒体
-DOMAIN-SUFFIX,anitama.net,🌏 国内媒体
-DOMAIN-SUFFIX,b23.tv,🌏 国内媒体
-DOMAIN-SUFFIX,baka.im,🌏 国内媒体
-DOMAIN-SUFFIX,bigfun.cn,🌏 国内媒体
-DOMAIN-SUFFIX,bigfunapp.cn,🌏 国内媒体
-DOMAIN-SUFFIX,corari.com,🌏 国内媒体
-DOMAIN-SUFFIX,dreamcast.hk,🌏 国内媒体
-DOMAIN-SUFFIX,dyhgames.com,🌏 国内媒体
-DOMAIN-SUFFIX,hdslb.com,🌏 国内媒体
-DOMAIN-SUFFIX,hdslb.com.w.kunlunhuf.com,🌏 国内媒体
-DOMAIN-SUFFIX,hdslb.com.w.kunlunpi.com,🌏 国内媒体
-DOMAIN-SUFFIX,hdslb.net,🌏 国内媒体
-DOMAIN-SUFFIX,hdslb.org,🌏 国内媒体
-DOMAIN-SUFFIX,im9.com,🌏 国内媒体
-DOMAIN-SUFFIX,maoercdn.com,🌏 国内媒体
-DOMAIN-SUFFIX,mcbbs.net,🌏 国内媒体
-DOMAIN-SUFFIX,mincdn.com,🌏 国内媒体
-DOMAIN-SUFFIX,sharejoytech.com,🌏 国内媒体
-DOMAIN-SUFFIX,smtcdns.net,🌏 国内媒体
-DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,🌏 国内媒体
-DOMAIN-SUFFIX,yo9.com,🌏 国内媒体
-DOMAIN-SUFFIX,cctv.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cctv.com,🌏 国内媒体
-DOMAIN-SUFFIX,cctvlib.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cctvlib.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cctvlibrary.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cctvlibrary.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cctvpic.com,🌏 国内媒体
-DOMAIN-SUFFIX,cctvpro.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cctvpro.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,chinaepg.cn,🌏 国内媒体
-DOMAIN-SUFFIX,chinalive.com,🌏 国内媒体
-DOMAIN-SUFFIX,citv.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cnms.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cntv.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cntv.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,cntvwb.cn,🌏 国内媒体
-DOMAIN-SUFFIX,gjgbdszt.cn,🌏 国内媒体
-DOMAIN-SUFFIX,gjgbdszt.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,gjgbdszt.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,ipanda.cn,🌏 国内媒体
-DOMAIN-SUFFIX,ipanda.com,🌏 国内媒体
-DOMAIN-SUFFIX,ipanda.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,ipanda.net,🌏 国内媒体
-DOMAIN-SUFFIX,livechina.cn,🌏 国内媒体
-DOMAIN-SUFFIX,livechina.com,🌏 国内媒体
-DOMAIN-SUFFIX,olympicchannelchina.cn,🌏 国内媒体
-DOMAIN-SUFFIX,tvcc.cn,🌏 国内媒体
-DOMAIN-SUFFIX,tvcc.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn,🌏 国内媒体
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s,🌏 国内媒体
-DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn,🌏 国内媒体
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn,🌏 国内媒体
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s,🌏 国内媒体
-DOMAIN-SUFFIX,zggbdszt.cn,🌏 国内媒体
-DOMAIN-SUFFIX,zggbdszt.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,zggbdszt.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,zygbdszt.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,0co3geye.cn,🌏 国内媒体
-DOMAIN-SUFFIX,1.letvlive.com,🌏 国内媒体
-DOMAIN-SUFFIX,2.letvlive.com,🌏 国内媒体
-DOMAIN-SUFFIX,2isbbess.cn,🌏 国内媒体
-DOMAIN-SUFFIX,33lwhaoinc.cn,🌏 国内媒体
-DOMAIN-SUFFIX,52mtkvideo.cn,🌏 国内媒体
-DOMAIN-SUFFIX,56.com,🌏 国内媒体
-DOMAIN-SUFFIX,71.am,🌏 国内媒体
-DOMAIN-SUFFIX,71.am.com,🌏 国内媒体
-DOMAIN-SUFFIX,71edge.com,🌏 国内媒体
-DOMAIN-SUFFIX,71edge.net,🌏 国内媒体
-DOMAIN-SUFFIX,9xsecndns.cn,🌏 国内媒体
-DOMAIN-SUFFIX,acfun.cn,🌏 国内媒体
-DOMAIN-SUFFIX,acfun.com,🌏 国内媒体
-DOMAIN-SUFFIX,acfun.tv,🌏 国内媒体
-DOMAIN-SUFFIX,ads1.lfengmobile.com,🌏 国内媒体
-DOMAIN-SUFFIX,afp.pplive.com,🌏 国内媒体
-DOMAIN-SUFFIX,ai.xiaomi.com,🌏 国内媒体
-DOMAIN-SUFFIX,aianno.cn,🌏 国内媒体
-DOMAIN-SUFFIX,aianno.com,🌏 国内媒体
-DOMAIN-SUFFIX,aiqiyicloud-mgmt.com,🌏 国内媒体
-DOMAIN-SUFFIX,aiqiyicloud.com,🌏 国内媒体
-DOMAIN-SUFFIX,aiqiyicloud.net,🌏 国内媒体
-DOMAIN-SUFFIX,aixifan.com,🌏 国内媒体
-DOMAIN-SUFFIX,androidgo.duapp.com,🌏 国内媒体
-DOMAIN-SUFFIX,api.game.letvstore.com,🌏 国内媒体
-DOMAIN-SUFFIX,b82yxres.cn,🌏 国内媒体
-DOMAIN-SUFFIX,baiying.com,🌏 国内媒体
-DOMAIN-SUFFIX,cdn.zampdsp.com,🌏 国内媒体
-DOMAIN-SUFFIX,cibntv.net,🌏 国内媒体
-DOMAIN-SUFFIX,cm.fancyapi.com,🌏 国内媒体
-DOMAIN-SUFFIX,cmvideo.cn,🌏 国内媒体
-DOMAIN-SUFFIX,dmhmusic.com,🌏 国内媒体
-DOMAIN-SUFFIX,e8h2ty.tdum.alibaba.com,🌏 国内媒体
-DOMAIN-SUFFIX,gamenow.club,🌏 国内媒体
-DOMAIN-SUFFIX,gitv.cn,🌏 国内媒体
-DOMAIN-SUFFIX,gitv.tv,🌏 国内媒体
-DOMAIN-SUFFIX,hifuntv.com,🌏 国内媒体
-DOMAIN-SUFFIX,hitv.com,🌏 国内媒体
-DOMAIN-SUFFIX,hunaniptv.com,🌏 国内媒体
-DOMAIN-SUFFIX,hunantv.com,🌏 国内媒体
-DOMAIN-SUFFIX,i.qq.com,🌏 国内媒体
-DOMAIN-SUFFIX,ibkstore.com,🌏 国内媒体
-DOMAIN-SUFFIX,imgo.tv,🌏 国内媒体
-DOMAIN-SUFFIX,iq.com,🌏 国内媒体
-DOMAIN-SUFFIX,iqiyi.com,🌏 国内媒体
-DOMAIN-SUFFIX,iqiyi.demo.uwp,🌏 国内媒体
-DOMAIN-SUFFIX,iqiyiedge.com,🌏 国内媒体
-DOMAIN-SUFFIX,iqiyiedge.net,🌏 国内媒体
-DOMAIN-SUFFIX,iqiyipic.com,🌏 国内媒体
-DOMAIN-SUFFIX,itc.cn,🌏 国内媒体
-DOMAIN-SUFFIX,ixigua.com,🌏 国内媒体
-DOMAIN-SUFFIX,jiangbing.cn,🌏 国内媒体
-DOMAIN-SUFFIX,jstucdn.com,🌏 国内媒体
-DOMAIN-SUFFIX,koowo.com,🌏 国内媒体
-DOMAIN-SUFFIX,kugou.com,🌏 国内媒体
-DOMAIN-SUFFIX,kumiao.com,🌏 国内媒体
-DOMAIN-SUFFIX,kumiao.tv,🌏 国内媒体
-DOMAIN-SUFFIX,kuwo.cn,🌏 国内媒体
-DOMAIN-SUFFIX,kuxiaomiao.cn,🌏 国内媒体
-DOMAIN-SUFFIX,kuxiaomiao.com,🌏 国内媒体
-DOMAIN-SUFFIX,kuxiaomiao.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,kuxiaomiao.net,🌏 国内媒体
-DOMAIN-SUFFIX,le.com,🌏 国内媒体
-DOMAIN-SUFFIX,letv.com,🌏 国内媒体
-DOMAIN-SUFFIX,mgtv.com,🌏 国内媒体
-DOMAIN-SUFFIX,migu.cn,🌏 国内媒体
-DOMAIN-SUFFIX,miguvideo.com,🌏 国内媒体
-DOMAIN-SUFFIX,mmstat.com,🌏 国内媒体
-DOMAIN-SUFFIX,music.126.net,🌏 国内媒体
-DOMAIN-SUFFIX,music.163.com,🌏 国内媒体
-DOMAIN-SUFFIX,music.qq.com,🌏 国内媒体
-DOMAIN-SUFFIX,music.tc.qq.com,🌏 国内媒体
-DOMAIN-SUFFIX,music.xiaomi.com,🌏 国内媒体
-DOMAIN-SUFFIX,noxagile.duapp.com,🌏 国内媒体
-DOMAIN-SUFFIX,ns6mitkxo.cn,🌏 国内媒体
-DOMAIN-SUFFIX,pgdt.gtimg.cn,🌏 国内媒体
-DOMAIN-SUFFIX,pplive.cn,🌏 国内媒体
-DOMAIN-SUFFIX,pps.tv,🌏 国内媒体
-DOMAIN-SUFFIX,ppsimg.com,🌏 国内媒体
-DOMAIN-SUFFIX,ppstream.cn,🌏 国内媒体
-DOMAIN-SUFFIX,ppstream.com,🌏 国内媒体
-DOMAIN-SUFFIX,ppstream.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,ppstream.net,🌏 国内媒体
-DOMAIN-SUFFIX,ppstream.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,ppsurl.com,🌏 国内媒体
-DOMAIN-SUFFIX,pptv.com,🌏 国内媒体
-DOMAIN-SUFFIX,qianqian.com,🌏 国内媒体
-DOMAIN-SUFFIX,qiyi.cn,🌏 国内媒体
-DOMAIN-SUFFIX,qiyi.com,🌏 国内媒体
-DOMAIN-SUFFIX,qiyipic.com,🌏 国内媒体
-DOMAIN-SUFFIX,qqmusic.qq.com,🌏 国内媒体
-DOMAIN-SUFFIX,qqvideo.gtimg.com,🌏 国内媒体
-DOMAIN-SUFFIX,qy.com,🌏 国内媒体
-DOMAIN-SUFFIX,qy.net,🌏 国内媒体
-DOMAIN-SUFFIX,s.zampdsp.com,🌏 国内媒体
-DOMAIN-SUFFIX,sk2cdsnw.cn,🌏 国内媒体
-DOMAIN-SUFFIX,snssdk.com,🌏 国内媒体
-DOMAIN-SUFFIX,sogoodtech1.cn,🌏 国内媒体
-DOMAIN-SUFFIX,sohu.com,🌏 国内媒体
-DOMAIN-SUFFIX,sohu.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,soku.com,🌏 国内媒体
-DOMAIN-SUFFIX,suike.cn,🌏 国内媒体
-DOMAIN-SUFFIX,taihe.com,🌏 国内媒体
-DOMAIN-SUFFIX,tazai.com,🌏 国内媒体
-DOMAIN-SUFFIX,tencentmusic.com,🌏 国内媒体
-DOMAIN-SUFFIX,tudou.com,🌏 国内媒体
-DOMAIN-SUFFIX,ukoo.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,v-56.com,🌏 国内媒体
-DOMAIN-SUFFIX,v.qq.com,🌏 国内媒体
-DOMAIN-SUFFIX,v.smtcdns.com,🌏 国内媒体
-DOMAIN-SUFFIX,video.qq.com,🌏 国内媒体
-DOMAIN-SUFFIX,videojj.com,🌏 国内媒体
-DOMAIN-SUFFIX,wenyupages.com,🌏 国内媒体
-DOMAIN-SUFFIX,wingsmobiletek.cn,🌏 国内媒体
-DOMAIN-SUFFIX,wwc.alicdn.com,🌏 国内媒体
-DOMAIN-SUFFIX,xiami.com,🌏 国内媒体
-DOMAIN-SUFFIX,xiami.net,🌏 国内媒体
-DOMAIN-SUFFIX,y.qq.com,🌏 国内媒体
-DOMAIN-SUFFIX,ykimg.com,🌏 国内媒体
-DOMAIN-SUFFIX,yodou.com,🌏 国内媒体
-DOMAIN-SUFFIX,yoku.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,yoqoo.com,🌏 国内媒体
-DOMAIN-SUFFIX,yoqoo.net,🌏 国内媒体
-DOMAIN-SUFFIX,yoqoo.net.cn,🌏 国内媒体
-DOMAIN-SUFFIX,yoqoo.tv,🌏 国内媒体
-DOMAIN-SUFFIX,youku.com,🌏 国内媒体
-DOMAIN-SUFFIX,youku.com.cn,🌏 国内媒体
-DOMAIN-SUFFIX,youku.org,🌏 国内媒体
-DOMAIN-SUFFIX,youqoo.net,🌏 国内媒体
-DOMAIN-SUFFIX,zamplus.com,🌏 国内媒体
-DOMAIN-SUFFIX,zimuzu.io,🌏 国内媒体
-DOMAIN-SUFFIX,zimuzu.tv,🌏 国内媒体
-DOMAIN-SUFFIX,zmz2019.com,🌏 国内媒体
-DOMAIN-SUFFIX,zmzapi.com,🌏 国内媒体
-DOMAIN-SUFFIX,zmzapi.net,🌏 国内媒体
-DOMAIN-SUFFIX,zmzfile.com,🌏 国内媒体
-DOMAIN-KEYWORD,qiyi,🌏 国内媒体
-IP-CIDR,101.224.0.0/13,🌏 国内媒体
-IP-CIDR,101.71.154.241/32,🌏 国内媒体
-IP-CIDR,103.126.92.132/31,🌏 国内媒体
-IP-CIDR,103.44.56.0/22,🌏 国内媒体
-IP-CIDR,103.5.34.153/32,🌏 国内媒体
-IP-CIDR,104.109.129.153/32,🌏 国内媒体
-IP-CIDR,106.11.0.0/16,🌏 国内媒体
-IP-CIDR,106.75.74.76/32,🌏 国内媒体
-IP-CIDR,110.238.107.47/32,🌏 国内媒体
-IP-CIDR,111.206.25.147/32,🌏 国内媒体
-IP-CIDR,112.13.119.17/32,🌏 国内媒体
-IP-CIDR,112.13.122.1/32,🌏 国内媒体
-IP-CIDR,115.236.118.33/32,🌏 国内媒体
-IP-CIDR,115.236.121.1/32,🌏 国内媒体
-IP-CIDR,118.24.63.156/32,🌏 国内媒体
-IP-CIDR,118.26.120.0/24,🌏 国内媒体
-IP-CIDR,118.26.32.0/23,🌏 国内媒体
-IP-CIDR,119.176.0.0/12,🌏 国内媒体
-IP-CIDR,119.3.238.64/32,🌏 国内媒体
-IP-CIDR,120.92.108.182/32,🌏 国内媒体
-IP-CIDR,120.92.113.99/32,🌏 国内媒体
-IP-CIDR,120.92.153.217/32,🌏 国内媒体
-IP-CIDR,134.175.207.130/32,🌏 国内媒体
-IP-CIDR,193.112.159.225/32,🌏 国内媒体
-IP-CIDR,203.107.1.0/24,🌏 国内媒体
-IP-CIDR,203.211.4.169/32,🌏 国内媒体
-IP-CIDR,203.211.4.193/32,🌏 国内媒体
-IP-CIDR,203.74.95.131/32,🌏 国内媒体
-IP-CIDR,203.74.95.139/32,🌏 国内媒体
-IP-CIDR,203.74.95.153/32,🌏 国内媒体
-IP-CIDR,210.201.32.11/32,🌏 国内媒体
-IP-CIDR,210.201.32.8/32,🌏 国内媒体
-IP-CIDR,210.71.227.200/32,🌏 国内媒体
-IP-CIDR,210.71.227.202/32,🌏 国内媒体
-IP-CIDR,223.252.199.66/31,🌏 国内媒体
-IP-CIDR,23.211.15.99/32,🌏 国内媒体
-IP-CIDR,23.40.241.251/32,🌏 国内媒体
-IP-CIDR,23.40.242.10/32,🌏 国内媒体
-IP-CIDR,23.53.32.88/32,🌏 国内媒体
-IP-CIDR,39.105.63.80/32,🌏 国内媒体
-IP-CIDR,45.254.48.1/32,🌏 国内媒体
-IP-CIDR,47.100.127.239/32,🌏 国内媒体
-IP-CIDR,58.49.111.117/32,🌏 国内媒体
-IP-CIDR,58.49.111.79/32,🌏 国内媒体
-IP-CIDR,58.49.111.95/32,🌏 国内媒体
-IP-CIDR,59.111.160.195/32,🌏 国内媒体
-IP-CIDR,59.111.160.197/32,🌏 国内媒体
-IP-CIDR,59.111.181.35/32,🌏 国内媒体
-IP-CIDR,59.111.181.38/32,🌏 国内媒体
-IP-CIDR,59.111.181.60/32,🌏 国内媒体
-IP6-CIDR,::ffff:113.248.172.245/128,🌏 国内媒体
-IP6-CIDR,::ffff:114.235.96.186/128,🌏 国内媒体
-IP6-CIDR,::ffff:115.236.128.112/128,🌏 国内媒体
-IP6-CIDR,::ffff:115.236.128.120/128,🌏 国内媒体
-IP6-CIDR,::ffff:115.236.128.24/128,🌏 国内媒体
-IP6-CIDR,::ffff:115.236.128.80/128,🌏 国内媒体
-IP6-CIDR,::ffff:117.64.75.196/128,🌏 国内媒体
-IP6-CIDR,::ffff:117.68.200.210/128,🌏 国内媒体
-IP6-CIDR,::ffff:117.87.144.24/128,🌏 国内媒体
-IP6-CIDR,::ffff:121.56.126.255/128,🌏 国内媒体
-IP6-CIDR,::ffff:124.73.198.81/128,🌏 国内媒体
-IP6-CIDR,::ffff:124.73.200.142/128,🌏 国内媒体
-IP6-CIDR,::ffff:175.6.84.30/128,🌏 国内媒体
-IP6-CIDR,::ffff:175.6.84.96/128,🌏 国内媒体
-IP6-CIDR,::ffff:183.161.144.133/128,🌏 国内媒体
-IP6-CIDR,::ffff:183.161.144.230/128,🌏 国内媒体
-IP6-CIDR,::ffff:183.161.149.105/128,🌏 国内媒体
-IP6-CIDR,::ffff:198.18.5.138/128,🌏 国内媒体
-IP6-CIDR,::ffff:198.18.6.81/128,🌏 国内媒体
-IP6-CIDR,::ffff:198.18.6.83/128,🌏 国内媒体
-IP6-CIDR,::ffff:223.240.191.238/128,🌏 国内媒体
-IP6-CIDR,::ffff:27.157.209.46/128,🌏 国内媒体
-IP6-CIDR,::ffff:58.217.232.117/128,🌏 国内媒体
-IP6-CIDR,::ffff:58.217.232.68/128,🌏 国内媒体
-IP6-CIDR,::ffff:58.217.232.79/128,🌏 国内媒体
-IP6-CIDR,::ffff:58.58.0.90/128,🌏 国内媒体
-IP6-CIDR,::ffff:60.171.183.161/128,🌏 国内媒体
-IP6-CIDR,::ffff:60.171.183.186/128,🌏 国内媒体
-IP6-CIDR,::ffff:60.171.183.98/128,🌏 国内媒体
+DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjsgrzdrctt.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjsgrzdrctu.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjz8yzdnc31.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjz8yzdnc3t.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjzgazdrpba.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjzgazdrpbz.ourdvsss.com,REJECT
+DOMAIN,0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com,REJECT
+DOMAIN,0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com,REJECT
+DOMAIN,112-81-125-43.dhost.00cdn.com,REJECT
+DOMAIN,113-219-145-1.ksyungslb.com,REJECT
+DOMAIN,114-236-92-129.ksyungslb.com,REJECT
+DOMAIN,180-101-74-1.ksyungslb.com,REJECT
+DOMAIN,1geadrmttge3nhcjwgazdope.ourdvsss.com,REJECT
+DOMAIN,1geadrmttge3nhcjwgwzdqqe.ourdvsss.com,REJECT
+DOMAIN,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com,REJECT
+DOMAIN,1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com,REJECT
+DOMAIN,1gr3uomttgr31hcjtgezdkcy.ourdvsss.com,REJECT
+DOMAIN,1gr4uqmtt8y41hcjigazdqca.ourdvsss.com,REJECT
+DOMAIN,1gr4uqmtt8y41hcjigazdqce.ourdvsss.com,REJECT
+DOMAIN,1gr4uqmtt8y41hcjigazdqco.ourdvsss.com,REJECT
+DOMAIN,1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com,REJECT
+DOMAIN,1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj38yzdcca.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj38yzdcco.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj38yzdkca.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj38yzdkco.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj38yzdkqy.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj3gczdcpa.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj3gczdcpe.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj3gczdcpo.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcj3gczdcqy.ourdvsss.com,REJECT
+DOMAIN,1gr5dgmttgha1hcttgrzdnpo.ourdvsss.com,REJECT
+DOMAIN,1graukmttga4nhcjtgozdgce.ourdvsss.com,REJECT
+DOMAIN,218-91-225-1.ksyungslb.com,REJECT
+DOMAIN,219-155-150-1.ksyungslb.com,REJECT
+DOMAIN,222-188-6-1.ksyungslb.com,REJECT
+DOMAIN,36-104-134-1.ksyungslb.com,REJECT
+DOMAIN,36-25-252-1.ksyungslb.com,REJECT
+DOMAIN,3ge3drmttga5nhcbqge3ur.ourdvsss.com,REJECT
+DOMAIN,3geauymtsgrzdnqbofa5do.ourdvsss.com,REJECT
+DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com,REJECT
+DOMAIN,3geauymtsgrzdrcbzfahue.ourdvsss.com,REJECT
+DOMAIN,3geauymtsgrzdrcbzfahuk.ourdvsss.com,REJECT
+DOMAIN,4go41hcjtgazdoctqge4o.ourdvsss.com,REJECT
+DOMAIN,p-bstarstatic.akamaized.net,REJECT
+DOMAIN,p.bstarstatic.com,REJECT
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,REJECT
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,REJECT
+DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net,REJECT
+DOMAIN,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net,REJECT
+DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net,REJECT
+DOMAIN,api.iplay.163.com,REJECT
+DOMAIN,aqqmusic.tc.qq.com,REJECT
+DOMAIN,dldir1.qq.com,REJECT
+DOMAIN,iacc.qq.com,REJECT
+DOMAIN,ins-eeww7kom.ias.tencent-cloud.net,REJECT
+DOMAIN,ios.video.mpush.qq.com,REJECT
+DOMAIN,mam.netease.com,REJECT
+DOMAIN,moo.qq.com,REJECT
+DOMAIN,rdelivery.qq.com,REJECT
+DOMAIN,ts.qq.com,REJECT
+DOMAIN,v.streaming.qq.com,REJECT
+DOMAIN,video-public-1258344701.shiply-cdn.qq.com,REJECT
+DOMAIN,video-search-1258344701.shiply-cdn.qq.com,REJECT
+DOMAIN,video-vip-1258344701.shiply-cdn.qq.com,REJECT
+DOMAIN,yoo.gtimg.com,REJECT
+DOMAIN-SUFFIX,acg.tv,REJECT
+DOMAIN-SUFFIX,acgvideo.com,REJECT
+DOMAIN-SUFFIX,animetamashi.cn,REJECT
+DOMAIN-SUFFIX,animetamashi.com,REJECT
+DOMAIN-SUFFIX,anitama.cn,REJECT
+DOMAIN-SUFFIX,anitama.net,REJECT
+DOMAIN-SUFFIX,b23.tv,REJECT
+DOMAIN-SUFFIX,baka.im,REJECT
+DOMAIN-SUFFIX,bigfun.cn,REJECT
+DOMAIN-SUFFIX,bigfunapp.cn,REJECT
+DOMAIN-SUFFIX,corari.com,REJECT
+DOMAIN-SUFFIX,dreamcast.hk,REJECT
+DOMAIN-SUFFIX,dyhgames.com,REJECT
+DOMAIN-SUFFIX,hdslb.com,REJECT
+DOMAIN-SUFFIX,hdslb.com.w.kunlunhuf.com,REJECT
+DOMAIN-SUFFIX,hdslb.com.w.kunlunpi.com,REJECT
+DOMAIN-SUFFIX,hdslb.net,REJECT
+DOMAIN-SUFFIX,hdslb.org,REJECT
+DOMAIN-SUFFIX,im9.com,REJECT
+DOMAIN-SUFFIX,maoercdn.com,REJECT
+DOMAIN-SUFFIX,mcbbs.net,REJECT
+DOMAIN-SUFFIX,mincdn.com,REJECT
+DOMAIN-SUFFIX,sharejoytech.com,REJECT
+DOMAIN-SUFFIX,smtcdns.net,REJECT
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,REJECT
+DOMAIN-SUFFIX,yo9.com,REJECT
+DOMAIN-SUFFIX,cctv.cn,REJECT
+DOMAIN-SUFFIX,cctv.com,REJECT
+DOMAIN-SUFFIX,cctvlib.cn,REJECT
+DOMAIN-SUFFIX,cctvlib.com.cn,REJECT
+DOMAIN-SUFFIX,cctvlibrary.cn,REJECT
+DOMAIN-SUFFIX,cctvlibrary.com.cn,REJECT
+DOMAIN-SUFFIX,cctvpic.com,REJECT
+DOMAIN-SUFFIX,cctvpro.cn,REJECT
+DOMAIN-SUFFIX,cctvpro.com.cn,REJECT
+DOMAIN-SUFFIX,chinaepg.cn,REJECT
+DOMAIN-SUFFIX,chinalive.com,REJECT
+DOMAIN-SUFFIX,citv.net.cn,REJECT
+DOMAIN-SUFFIX,cnms.net.cn,REJECT
+DOMAIN-SUFFIX,cntv.cn,REJECT
+DOMAIN-SUFFIX,cntv.com.cn,REJECT
+DOMAIN-SUFFIX,cntvwb.cn,REJECT
+DOMAIN-SUFFIX,gjgbdszt.cn,REJECT
+DOMAIN-SUFFIX,gjgbdszt.com.cn,REJECT
+DOMAIN-SUFFIX,gjgbdszt.net.cn,REJECT
+DOMAIN-SUFFIX,ipanda.cn,REJECT
+DOMAIN-SUFFIX,ipanda.com,REJECT
+DOMAIN-SUFFIX,ipanda.com.cn,REJECT
+DOMAIN-SUFFIX,ipanda.net,REJECT
+DOMAIN-SUFFIX,livechina.cn,REJECT
+DOMAIN-SUFFIX,livechina.com,REJECT
+DOMAIN-SUFFIX,olympicchannelchina.cn,REJECT
+DOMAIN-SUFFIX,tvcc.cn,REJECT
+DOMAIN-SUFFIX,tvcc.com.cn,REJECT
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn,REJECT
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s,REJECT
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn,REJECT
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn,REJECT
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s,REJECT
+DOMAIN-SUFFIX,zggbdszt.cn,REJECT
+DOMAIN-SUFFIX,zggbdszt.com.cn,REJECT
+DOMAIN-SUFFIX,zggbdszt.net.cn,REJECT
+DOMAIN-SUFFIX,zygbdszt.net.cn,REJECT
+DOMAIN-SUFFIX,0co3geye.cn,REJECT
+DOMAIN-SUFFIX,1.letvlive.com,REJECT
+DOMAIN-SUFFIX,2.letvlive.com,REJECT
+DOMAIN-SUFFIX,2isbbess.cn,REJECT
+DOMAIN-SUFFIX,33lwhaoinc.cn,REJECT
+DOMAIN-SUFFIX,52mtkvideo.cn,REJECT
+DOMAIN-SUFFIX,56.com,REJECT
+DOMAIN-SUFFIX,71.am,REJECT
+DOMAIN-SUFFIX,71.am.com,REJECT
+DOMAIN-SUFFIX,71edge.com,REJECT
+DOMAIN-SUFFIX,71edge.net,REJECT
+DOMAIN-SUFFIX,9xsecndns.cn,REJECT
+DOMAIN-SUFFIX,acfun.cn,REJECT
+DOMAIN-SUFFIX,acfun.com,REJECT
+DOMAIN-SUFFIX,acfun.tv,REJECT
+DOMAIN-SUFFIX,ads1.lfengmobile.com,REJECT
+DOMAIN-SUFFIX,afp.pplive.com,REJECT
+DOMAIN-SUFFIX,ai.xiaomi.com,REJECT
+DOMAIN-SUFFIX,aianno.cn,REJECT
+DOMAIN-SUFFIX,aianno.com,REJECT
+DOMAIN-SUFFIX,aiqiyicloud-mgmt.com,REJECT
+DOMAIN-SUFFIX,aiqiyicloud.com,REJECT
+DOMAIN-SUFFIX,aiqiyicloud.net,REJECT
+DOMAIN-SUFFIX,aixifan.com,REJECT
+DOMAIN-SUFFIX,androidgo.duapp.com,REJECT
+DOMAIN-SUFFIX,api.game.letvstore.com,REJECT
+DOMAIN-SUFFIX,b82yxres.cn,REJECT
+DOMAIN-SUFFIX,baiying.com,REJECT
+DOMAIN-SUFFIX,cdn.zampdsp.com,REJECT
+DOMAIN-SUFFIX,cibntv.net,REJECT
+DOMAIN-SUFFIX,cm.fancyapi.com,REJECT
+DOMAIN-SUFFIX,cmvideo.cn,REJECT
+DOMAIN-SUFFIX,dmhmusic.com,REJECT
+DOMAIN-SUFFIX,e8h2ty.tdum.alibaba.com,REJECT
+DOMAIN-SUFFIX,gamenow.club,REJECT
+DOMAIN-SUFFIX,gitv.cn,REJECT
+DOMAIN-SUFFIX,gitv.tv,REJECT
+DOMAIN-SUFFIX,hifuntv.com,REJECT
+DOMAIN-SUFFIX,hitv.com,REJECT
+DOMAIN-SUFFIX,hunaniptv.com,REJECT
+DOMAIN-SUFFIX,hunantv.com,REJECT
+DOMAIN-SUFFIX,i.qq.com,REJECT
+DOMAIN-SUFFIX,ibkstore.com,REJECT
+DOMAIN-SUFFIX,imgo.tv,REJECT
+DOMAIN-SUFFIX,iq.com,REJECT
+DOMAIN-SUFFIX,iqiyi.com,REJECT
+DOMAIN-SUFFIX,iqiyi.demo.uwp,REJECT
+DOMAIN-SUFFIX,iqiyiedge.com,REJECT
+DOMAIN-SUFFIX,iqiyiedge.net,REJECT
+DOMAIN-SUFFIX,iqiyipic.com,REJECT
+DOMAIN-SUFFIX,itc.cn,REJECT
+DOMAIN-SUFFIX,ixigua.com,REJECT
+DOMAIN-SUFFIX,jiangbing.cn,REJECT
+DOMAIN-SUFFIX,jstucdn.com,REJECT
+DOMAIN-SUFFIX,koowo.com,REJECT
+DOMAIN-SUFFIX,kugou.com,REJECT
+DOMAIN-SUFFIX,kumiao.com,REJECT
+DOMAIN-SUFFIX,kumiao.tv,REJECT
+DOMAIN-SUFFIX,kuwo.cn,REJECT
+DOMAIN-SUFFIX,kuxiaomiao.cn,REJECT
+DOMAIN-SUFFIX,kuxiaomiao.com,REJECT
+DOMAIN-SUFFIX,kuxiaomiao.com.cn,REJECT
+DOMAIN-SUFFIX,kuxiaomiao.net,REJECT
+DOMAIN-SUFFIX,le.com,REJECT
+DOMAIN-SUFFIX,letv.com,REJECT
+DOMAIN-SUFFIX,mgtv.com,REJECT
+DOMAIN-SUFFIX,migu.cn,REJECT
+DOMAIN-SUFFIX,miguvideo.com,REJECT
+DOMAIN-SUFFIX,mmstat.com,REJECT
+DOMAIN-SUFFIX,music.126.net,REJECT
+DOMAIN-SUFFIX,music.163.com,REJECT
+DOMAIN-SUFFIX,music.qq.com,REJECT
+DOMAIN-SUFFIX,music.tc.qq.com,REJECT
+DOMAIN-SUFFIX,music.xiaomi.com,REJECT
+DOMAIN-SUFFIX,noxagile.duapp.com,REJECT
+DOMAIN-SUFFIX,ns6mitkxo.cn,REJECT
+DOMAIN-SUFFIX,pgdt.gtimg.cn,REJECT
+DOMAIN-SUFFIX,pplive.cn,REJECT
+DOMAIN-SUFFIX,pps.tv,REJECT
+DOMAIN-SUFFIX,ppsimg.com,REJECT
+DOMAIN-SUFFIX,ppstream.cn,REJECT
+DOMAIN-SUFFIX,ppstream.com,REJECT
+DOMAIN-SUFFIX,ppstream.com.cn,REJECT
+DOMAIN-SUFFIX,ppstream.net,REJECT
+DOMAIN-SUFFIX,ppstream.net.cn,REJECT
+DOMAIN-SUFFIX,ppsurl.com,REJECT
+DOMAIN-SUFFIX,pptv.com,REJECT
+DOMAIN-SUFFIX,qianqian.com,REJECT
+DOMAIN-SUFFIX,qiyi.cn,REJECT
+DOMAIN-SUFFIX,qiyi.com,REJECT
+DOMAIN-SUFFIX,qiyipic.com,REJECT
+DOMAIN-SUFFIX,qqmusic.qq.com,REJECT
+DOMAIN-SUFFIX,qqvideo.gtimg.com,REJECT
+DOMAIN-SUFFIX,qy.com,REJECT
+DOMAIN-SUFFIX,qy.net,REJECT
+DOMAIN-SUFFIX,s.zampdsp.com,REJECT
+DOMAIN-SUFFIX,sk2cdsnw.cn,REJECT
+DOMAIN-SUFFIX,snssdk.com,REJECT
+DOMAIN-SUFFIX,sogoodtech1.cn,REJECT
+DOMAIN-SUFFIX,sohu.com,REJECT
+DOMAIN-SUFFIX,sohu.com.cn,REJECT
+DOMAIN-SUFFIX,soku.com,REJECT
+DOMAIN-SUFFIX,suike.cn,REJECT
+DOMAIN-SUFFIX,taihe.com,REJECT
+DOMAIN-SUFFIX,tazai.com,REJECT
+DOMAIN-SUFFIX,tencentmusic.com,REJECT
+DOMAIN-SUFFIX,tudou.com,REJECT
+DOMAIN-SUFFIX,ukoo.com.cn,REJECT
+DOMAIN-SUFFIX,v-56.com,REJECT
+DOMAIN-SUFFIX,v.qq.com,REJECT
+DOMAIN-SUFFIX,v.smtcdns.com,REJECT
+DOMAIN-SUFFIX,video.qq.com,REJECT
+DOMAIN-SUFFIX,videojj.com,REJECT
+DOMAIN-SUFFIX,wenyupages.com,REJECT
+DOMAIN-SUFFIX,wingsmobiletek.cn,REJECT
+DOMAIN-SUFFIX,wwc.alicdn.com,REJECT
+DOMAIN-SUFFIX,xiami.com,REJECT
+DOMAIN-SUFFIX,xiami.net,REJECT
+DOMAIN-SUFFIX,y.qq.com,REJECT
+DOMAIN-SUFFIX,ykimg.com,REJECT
+DOMAIN-SUFFIX,yodou.com,REJECT
+DOMAIN-SUFFIX,yoku.net.cn,REJECT
+DOMAIN-SUFFIX,yoqoo.com,REJECT
+DOMAIN-SUFFIX,yoqoo.net,REJECT
+DOMAIN-SUFFIX,yoqoo.net.cn,REJECT
+DOMAIN-SUFFIX,yoqoo.tv,REJECT
+DOMAIN-SUFFIX,youku.com,REJECT
+DOMAIN-SUFFIX,youku.com.cn,REJECT
+DOMAIN-SUFFIX,youku.org,REJECT
+DOMAIN-SUFFIX,youqoo.net,REJECT
+DOMAIN-SUFFIX,zamplus.com,REJECT
+DOMAIN-SUFFIX,zimuzu.io,REJECT
+DOMAIN-SUFFIX,zimuzu.tv,REJECT
+DOMAIN-SUFFIX,zmz2019.com,REJECT
+DOMAIN-SUFFIX,zmzapi.com,REJECT
+DOMAIN-SUFFIX,zmzapi.net,REJECT
+DOMAIN-SUFFIX,zmzfile.com,REJECT
+DOMAIN-KEYWORD,qiyi,REJECT
+IP-CIDR,101.224.0.0/13,REJECT
+IP-CIDR,101.71.154.241/32,REJECT
+IP-CIDR,103.126.92.132/31,REJECT
+IP-CIDR,103.44.56.0/22,REJECT
+IP-CIDR,103.5.34.153/32,REJECT
+IP-CIDR,104.109.129.153/32,REJECT
+IP-CIDR,106.11.0.0/16,REJECT
+IP-CIDR,106.75.74.76/32,REJECT
+IP-CIDR,110.238.107.47/32,REJECT
+IP-CIDR,111.206.25.147/32,REJECT
+IP-CIDR,112.13.119.17/32,REJECT
+IP-CIDR,112.13.122.1/32,REJECT
+IP-CIDR,115.236.118.33/32,REJECT
+IP-CIDR,115.236.121.1/32,REJECT
+IP-CIDR,118.24.63.156/32,REJECT
+IP-CIDR,118.26.120.0/24,REJECT
+IP-CIDR,118.26.32.0/23,REJECT
+IP-CIDR,119.176.0.0/12,REJECT
+IP-CIDR,119.3.238.64/32,REJECT
+IP-CIDR,120.92.108.182/32,REJECT
+IP-CIDR,120.92.113.99/32,REJECT
+IP-CIDR,120.92.153.217/32,REJECT
+IP-CIDR,134.175.207.130/32,REJECT
+IP-CIDR,193.112.159.225/32,REJECT
+IP-CIDR,203.107.1.0/24,REJECT
+IP-CIDR,203.211.4.169/32,REJECT
+IP-CIDR,203.211.4.193/32,REJECT
+IP-CIDR,203.74.95.131/32,REJECT
+IP-CIDR,203.74.95.139/32,REJECT
+IP-CIDR,203.74.95.153/32,REJECT
+IP-CIDR,210.201.32.11/32,REJECT
+IP-CIDR,210.201.32.8/32,REJECT
+IP-CIDR,210.71.227.200/32,REJECT
+IP-CIDR,210.71.227.202/32,REJECT
+IP-CIDR,223.252.199.66/31,REJECT
+IP-CIDR,23.211.15.99/32,REJECT
+IP-CIDR,23.40.241.251/32,REJECT
+IP-CIDR,23.40.242.10/32,REJECT
+IP-CIDR,23.53.32.88/32,REJECT
+IP-CIDR,39.105.63.80/32,REJECT
+IP-CIDR,45.254.48.1/32,REJECT
+IP-CIDR,47.100.127.239/32,REJECT
+IP-CIDR,58.49.111.117/32,REJECT
+IP-CIDR,58.49.111.79/32,REJECT
+IP-CIDR,58.49.111.95/32,REJECT
+IP-CIDR,59.111.160.195/32,REJECT
+IP-CIDR,59.111.160.197/32,REJECT
+IP-CIDR,59.111.181.35/32,REJECT
+IP-CIDR,59.111.181.38/32,REJECT
+IP-CIDR,59.111.181.60/32,REJECT
+IP6-CIDR,::ffff:113.248.172.245/128,REJECT
+IP6-CIDR,::ffff:114.235.96.186/128,REJECT
+IP6-CIDR,::ffff:115.236.128.112/128,REJECT
+IP6-CIDR,::ffff:115.236.128.120/128,REJECT
+IP6-CIDR,::ffff:115.236.128.24/128,REJECT
+IP6-CIDR,::ffff:115.236.128.80/128,REJECT
+IP6-CIDR,::ffff:117.64.75.196/128,REJECT
+IP6-CIDR,::ffff:117.68.200.210/128,REJECT
+IP6-CIDR,::ffff:117.87.144.24/128,REJECT
+IP6-CIDR,::ffff:121.56.126.255/128,REJECT
+IP6-CIDR,::ffff:124.73.198.81/128,REJECT
+IP6-CIDR,::ffff:124.73.200.142/128,REJECT
+IP6-CIDR,::ffff:175.6.84.30/128,REJECT
+IP6-CIDR,::ffff:175.6.84.96/128,REJECT
+IP6-CIDR,::ffff:183.161.144.133/128,REJECT
+IP6-CIDR,::ffff:183.161.144.230/128,REJECT
+IP6-CIDR,::ffff:183.161.149.105/128,REJECT
+IP6-CIDR,::ffff:198.18.5.138/128,REJECT
+IP6-CIDR,::ffff:198.18.6.81/128,REJECT
+IP6-CIDR,::ffff:198.18.6.83/128,REJECT
+IP6-CIDR,::ffff:223.240.191.238/128,REJECT
+IP6-CIDR,::ffff:27.157.209.46/128,REJECT
+IP6-CIDR,::ffff:58.217.232.117/128,REJECT
+IP6-CIDR,::ffff:58.217.232.68/128,REJECT
+IP6-CIDR,::ffff:58.217.232.79/128,REJECT
+IP6-CIDR,::ffff:58.58.0.90/128,REJECT
+IP6-CIDR,::ffff:60.171.183.161/128,REJECT
+IP6-CIDR,::ffff:60.171.183.186/128,REJECT
+IP6-CIDR,::ffff:60.171.183.98/128,REJECT
 DOMAIN,alt1-mtalk.google.com,🚀 国外流量
 DOMAIN,alt2-mtalk.google.com,🚀 国外流量
 DOMAIN,alt3-mtalk.google.com,🚀 国外流量
@@ -3202,56 +3202,56 @@ IP-CIDR,172.253.122.188/32,🚀 国外流量,no-resolve
 IP-CIDR,173.194.175.188/32,🚀 国外流量,no-resolve
 IP-CIDR,173.194.218.188/32,🚀 国外流量,no-resolve
 IP-CIDR,209.85.233.188/32,🚀 国外流量,no-resolve
-DOMAIN-SUFFIX,265.com,🎯 国内流量
-DOMAIN-SUFFIX,2mdn.net,🎯 国内流量
-DOMAIN-SUFFIX,alt1-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,alt2-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,alt3-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,alt4-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,alt5-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,alt6-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,alt7-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,alt8-mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,app-measurement.com,🎯 国内流量
-DOMAIN-SUFFIX,cache.pack.google.com,🎯 国内流量
-DOMAIN-SUFFIX,clickserve.dartsearch.net,🎯 国内流量
-DOMAIN-SUFFIX,crl.pki.goog,🎯 国内流量
-DOMAIN-SUFFIX,dl.google.com,🎯 国内流量
-DOMAIN-SUFFIX,dl.l.google.com,🎯 国内流量
-DOMAIN-SUFFIX,googletagmanager.com,🎯 国内流量
-DOMAIN-SUFFIX,googletagservices.com,🎯 国内流量
-DOMAIN-SUFFIX,gtm.oasisfeng.com,🎯 国内流量
-DOMAIN-SUFFIX,mtalk.google.com,🎯 国内流量
-DOMAIN-SUFFIX,ocsp.pki.goog,🎯 国内流量
-DOMAIN-SUFFIX,recaptcha.net,🎯 国内流量
-DOMAIN-SUFFIX,safebrowsing-cache.google.com,🎯 国内流量
-DOMAIN-SUFFIX,settings.crashlytics.com,🎯 国内流量
-DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🎯 国内流量
-DOMAIN-SUFFIX,toolbarqueries.google.com,🎯 国内流量
-DOMAIN-SUFFIX,tools.google.com,🎯 国内流量
-DOMAIN-SUFFIX,tools.l.google.com,🎯 国内流量
-DOMAIN-SUFFIX,www-googletagmanager.l.google.com,🎯 国内流量
-DOMAIN-SUFFIX,1drv.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,1drv.ms,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,livefilestore.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,oneclient.sfx.ms,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,onedrive.co,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,onedrive.co.uk,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,onedrive.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,onedrive.eu,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,onedrive.live.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,onedrive.net,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,onedrive.org,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,photos.live.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,sharepoint.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,sharepointonline.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,skydrive.wns.windows.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,storage.live.com,Ⓜ️ 微软云盘
-DOMAIN-SUFFIX,storage.msn.com,Ⓜ️ 微软云盘
-DOMAIN-KEYWORD,1drv,Ⓜ️ 微软云盘
-DOMAIN-KEYWORD,onedrive,Ⓜ️ 微软云盘
-DOMAIN-KEYWORD,skydrive,Ⓜ️ 微软云盘
+DOMAIN-SUFFIX,265.com,DIRECT
+DOMAIN-SUFFIX,2mdn.net,DIRECT
+DOMAIN-SUFFIX,alt1-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,alt2-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,alt3-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,alt4-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,alt5-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,alt6-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,alt7-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,alt8-mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,app-measurement.com,DIRECT
+DOMAIN-SUFFIX,cache.pack.google.com,DIRECT
+DOMAIN-SUFFIX,clickserve.dartsearch.net,DIRECT
+DOMAIN-SUFFIX,crl.pki.goog,DIRECT
+DOMAIN-SUFFIX,dl.google.com,DIRECT
+DOMAIN-SUFFIX,dl.l.google.com,DIRECT
+DOMAIN-SUFFIX,googletagmanager.com,DIRECT
+DOMAIN-SUFFIX,googletagservices.com,DIRECT
+DOMAIN-SUFFIX,gtm.oasisfeng.com,DIRECT
+DOMAIN-SUFFIX,mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,ocsp.pki.goog,DIRECT
+DOMAIN-SUFFIX,recaptcha.net,DIRECT
+DOMAIN-SUFFIX,safebrowsing-cache.google.com,DIRECT
+DOMAIN-SUFFIX,settings.crashlytics.com,DIRECT
+DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,DIRECT
+DOMAIN-SUFFIX,toolbarqueries.google.com,DIRECT
+DOMAIN-SUFFIX,tools.google.com,DIRECT
+DOMAIN-SUFFIX,tools.l.google.com,DIRECT
+DOMAIN-SUFFIX,www-googletagmanager.l.google.com,DIRECT
+DOMAIN-SUFFIX,1drv.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,1drv.ms,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,livefilestore.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,oneclient.sfx.ms,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,onedrive.co,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,onedrive.co.uk,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,onedrive.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,onedrive.eu,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,onedrive.live.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,onedrive.net,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,onedrive.org,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,photos.live.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,sharepoint.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,sharepointonline.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,skydrive.wns.windows.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,storage.live.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,storage.msn.com,Ⓜ️ 微软服务
+DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
+DOMAIN-KEYWORD,onedrive,Ⓜ️ 微软服务
+DOMAIN-KEYWORD,skydrive,Ⓜ️ 微软服务
 DOMAIN,github-cloud.s3.amazonaws.com,Ⓜ️ 微软服务
 DOMAIN,vsmarketplacebadge.apphb.com,Ⓜ️ 微软服务
 DOMAIN-SUFFIX,21vbc.com,Ⓜ️ 微软服务
@@ -10844,826 +10844,826 @@ DOMAIN-SUFFIX,flzbcdn.xyz,🚀 国外流量
 DOMAIN-SUFFIX,ocnttv.com,🚀 国外流量
 DOMAIN-SUFFIX,vikacg.com,🚀 国外流量
 DOMAIN-SUFFIX,picjs.xyz,🚀 国外流量
-DOMAIN-SUFFIX,13th.tech,🎯 国内流量
-DOMAIN-SUFFIX,423down.com,🎯 国内流量
-DOMAIN-SUFFIX,bokecc.com,🎯 国内流量
-DOMAIN-SUFFIX,chaipip.com,🎯 国内流量
-DOMAIN-SUFFIX,chinaplay.store,🎯 国内流量
-DOMAIN-SUFFIX,hrtsea.com,🎯 国内流量
-DOMAIN-SUFFIX,kaikeba.com,🎯 国内流量
-DOMAIN-SUFFIX,laomo.me,🎯 国内流量
-DOMAIN-SUFFIX,mpyit.com,🎯 国内流量
-DOMAIN-SUFFIX,msftconnecttest.com,🎯 国内流量
-DOMAIN-SUFFIX,msftncsi.com,🎯 国内流量
-DOMAIN-SUFFIX,qupu123.com,🎯 国内流量
-DOMAIN-SUFFIX,pdfwifi.com,🎯 国内流量
-DOMAIN-SUFFIX,zhenguanyu.biz,🎯 国内流量
-DOMAIN-SUFFIX,zhenguanyu.com,🎯 国内流量
-DOMAIN-SUFFIX,snapdrop.net,🎯 国内流量
-DOMAIN-SUFFIX,tebex.io,🎯 国内流量
-DOMAIN-SUFFIX,cn,🎯 国内流量
-DOMAIN-SUFFIX,xn--fiqs8s,🎯 国内流量
-DOMAIN-SUFFIX,xn--55qx5d,🎯 国内流量
-DOMAIN-SUFFIX,xn--io0a7i,🎯 国内流量
-DOMAIN-KEYWORD,360buy,🎯 国内流量
-DOMAIN-KEYWORD,alicdn,🎯 国内流量
-DOMAIN-KEYWORD,alimama,🎯 国内流量
-DOMAIN-KEYWORD,alipay,🎯 国内流量
-DOMAIN-KEYWORD,appzapp,🎯 国内流量
-DOMAIN-KEYWORD,baidupcs,🎯 国内流量
-DOMAIN-KEYWORD,ccgslb,🎯 国内流量
-DOMAIN-KEYWORD,chinacache,🎯 国内流量
-DOMAIN-KEYWORD,duobao,🎯 国内流量
-DOMAIN-KEYWORD,jdpay,🎯 国内流量
-DOMAIN-KEYWORD,moke,🎯 国内流量
-DOMAIN-KEYWORD,qhimg,🎯 国内流量
-DOMAIN-KEYWORD,vpimg,🎯 国内流量
-DOMAIN-KEYWORD,xiami,🎯 国内流量
-DOMAIN-KEYWORD,xiaomi,🎯 国内流量
-DOMAIN-SUFFIX,360.com,🎯 国内流量
-DOMAIN-SUFFIX,360kuai.com,🎯 国内流量
-DOMAIN-SUFFIX,360safe.com,🎯 国内流量
-DOMAIN-SUFFIX,dhrest.com,🎯 国内流量
-DOMAIN-SUFFIX,qhres.com,🎯 国内流量
-DOMAIN-SUFFIX,qhstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,qhupdate.com,🎯 国内流量
-DOMAIN-SUFFIX,so.com,🎯 国内流量
-DOMAIN-SUFFIX,4399.com,🎯 国内流量
-DOMAIN-SUFFIX,4399pk.com,🎯 国内流量
-DOMAIN-SUFFIX,5054399.com,🎯 国内流量
-DOMAIN-SUFFIX,img4399.com,🎯 国内流量
-DOMAIN-SUFFIX,58.com,🎯 国内流量
-DOMAIN-SUFFIX,1688.com,🎯 国内流量
-DOMAIN-SUFFIX,aliapp.org,🎯 国内流量
-DOMAIN-SUFFIX,alibaba.com,🎯 国内流量
-DOMAIN-SUFFIX,alibabacloud.com,🎯 国内流量
-DOMAIN-SUFFIX,alibabausercontent.com,🎯 国内流量
-DOMAIN-SUFFIX,alicdn.com,🎯 国内流量
-DOMAIN-SUFFIX,alicloudccp.com,🎯 国内流量
-DOMAIN-SUFFIX,aliexpress.com,🎯 国内流量
-DOMAIN-SUFFIX,aliimg.com,🎯 国内流量
-DOMAIN-SUFFIX,alikunlun.com,🎯 国内流量
-DOMAIN-SUFFIX,alipay.com,🎯 国内流量
-DOMAIN-SUFFIX,alipayobjects.com,🎯 国内流量
-DOMAIN-SUFFIX,alisoft.com,🎯 国内流量
-DOMAIN-SUFFIX,aliyun.com,🎯 国内流量
-DOMAIN-SUFFIX,aliyuncdn.com,🎯 国内流量
-DOMAIN-SUFFIX,aliyuncs.com,🎯 国内流量
-DOMAIN-SUFFIX,aliyundrive.com,🎯 国内流量
-DOMAIN-SUFFIX,aliyundrive.net,🎯 国内流量
-DOMAIN-SUFFIX,amap.com,🎯 国内流量
-DOMAIN-SUFFIX,autonavi.com,🎯 国内流量
-DOMAIN-SUFFIX,dingtalk.com,🎯 国内流量
-DOMAIN-SUFFIX,ele.me,🎯 国内流量
-DOMAIN-SUFFIX,hichina.com,🎯 国内流量
-DOMAIN-SUFFIX,mmstat.com,🎯 国内流量
-DOMAIN-SUFFIX,mxhichina.com,🎯 国内流量
-DOMAIN-SUFFIX,soku.com,🎯 国内流量
-DOMAIN-SUFFIX,taobao.com,🎯 国内流量
-DOMAIN-SUFFIX,taobaocdn.com,🎯 国内流量
-DOMAIN-SUFFIX,tbcache.com,🎯 国内流量
-DOMAIN-SUFFIX,tbcdn.com,🎯 国内流量
-DOMAIN-SUFFIX,tmall.com,🎯 国内流量
-DOMAIN-SUFFIX,tmall.hk,🎯 国内流量
-DOMAIN-SUFFIX,ucweb.com,🎯 国内流量
-DOMAIN-SUFFIX,xiami.com,🎯 国内流量
-DOMAIN-SUFFIX,xiami.net,🎯 国内流量
-DOMAIN-SUFFIX,ykimg.com,🎯 国内流量
-DOMAIN-SUFFIX,youku.com,🎯 国内流量
-DOMAIN-SUFFIX,baidu.com,🎯 国内流量
-DOMAIN-SUFFIX,baidubcr.com,🎯 国内流量
-DOMAIN-SUFFIX,baidupcs.com,🎯 国内流量
-DOMAIN-SUFFIX,baidustatic.com,🎯 国内流量
-DOMAIN-SUFFIX,bcebos.com,🎯 国内流量
-DOMAIN-SUFFIX,bdimg.com,🎯 国内流量
-DOMAIN-SUFFIX,bdstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,bdurl.net,🎯 国内流量
-DOMAIN-SUFFIX,hao123.com,🎯 国内流量
-DOMAIN-SUFFIX,hao123img.com,🎯 国内流量
-DOMAIN-SUFFIX,jomodns.com,🎯 国内流量
-DOMAIN-SUFFIX,yunjiasu-cdn.net,🎯 国内流量
-DOMAIN-SUFFIX,acg.tv,🎯 国内流量
-DOMAIN-SUFFIX,acgvideo.com,🎯 国内流量
-DOMAIN-SUFFIX,b23.tv,🎯 国内流量
-DOMAIN-SUFFIX,bigfun.cn,🎯 国内流量
-DOMAIN-SUFFIX,bigfunapp.cn,🎯 国内流量
-DOMAIN-SUFFIX,hdslb.com,🎯 国内流量
-DOMAIN-SUFFIX,im9.com,🎯 国内流量
-DOMAIN-SUFFIX,smtcdns.net,🎯 国内流量
-DOMAIN-SUFFIX,amemv.com,🎯 国内流量
-DOMAIN-SUFFIX,bdxiguaimg.com,🎯 国内流量
-DOMAIN-SUFFIX,bdxiguastatic.com,🎯 国内流量
-DOMAIN-SUFFIX,byted-static.com,🎯 国内流量
-DOMAIN-SUFFIX,bytedance.com,🎯 国内流量
-DOMAIN-SUFFIX,bytedance.net,🎯 国内流量
-DOMAIN-SUFFIX,bytedns.net,🎯 国内流量
-DOMAIN-SUFFIX,bytednsdoc.com,🎯 国内流量
-DOMAIN-SUFFIX,bytegoofy.com,🎯 国内流量
-DOMAIN-SUFFIX,byteimg.com,🎯 国内流量
-DOMAIN-SUFFIX,bytescm.com,🎯 国内流量
-DOMAIN-SUFFIX,bytetos.com,🎯 国内流量
-DOMAIN-SUFFIX,bytexservice.com,🎯 国内流量
-DOMAIN-SUFFIX,douyin.com,🎯 国内流量
-DOMAIN-SUFFIX,douyincdn.com,🎯 国内流量
-DOMAIN-SUFFIX,douyinpic.com,🎯 国内流量
-DOMAIN-SUFFIX,douyinstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,douyinvod.com,🎯 国内流量
-DOMAIN-SUFFIX,feelgood.cn,🎯 国内流量
-DOMAIN-SUFFIX,feiliao.com,🎯 国内流量
-DOMAIN-SUFFIX,gifshow.com,🎯 国内流量
-DOMAIN-SUFFIX,huoshan.com,🎯 国内流量
-DOMAIN-SUFFIX,huoshanzhibo.com,🎯 国内流量
-DOMAIN-SUFFIX,ibytedapm.com,🎯 国内流量
-DOMAIN-SUFFIX,iesdouyin.com,🎯 国内流量
-DOMAIN-SUFFIX,ixigua.com,🎯 国内流量
-DOMAIN-SUFFIX,kspkg.com,🎯 国内流量
-DOMAIN-SUFFIX,pstatp.com,🎯 国内流量
-DOMAIN-SUFFIX,snssdk.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiao.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiao13.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiaoapi.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiaocdn.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiaocdn.net,🎯 国内流量
-DOMAIN-SUFFIX,toutiaocloud.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiaohao.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiaohao.net,🎯 国内流量
-DOMAIN-SUFFIX,toutiaoimg.com,🎯 国内流量
-DOMAIN-SUFFIX,toutiaopage.com,🎯 国内流量
-DOMAIN-SUFFIX,wukong.com,🎯 国内流量
-DOMAIN-SUFFIX,zijieapi.com,🎯 国内流量
-DOMAIN-SUFFIX,zijieimg.com,🎯 国内流量
-DOMAIN-SUFFIX,zjbyte.com,🎯 国内流量
-DOMAIN-SUFFIX,zjcdn.com,🎯 国内流量
-DOMAIN-SUFFIX,cctv.com,🎯 国内流量
-DOMAIN-SUFFIX,cctvpic.com,🎯 国内流量
-DOMAIN-SUFFIX,livechina.com,🎯 国内流量
-DOMAIN-SUFFIX,21cn.com,🎯 国内流量
-DOMAIN-SUFFIX,didialift.com,🎯 国内流量
-DOMAIN-SUFFIX,didiglobal.com,🎯 国内流量
-DOMAIN-SUFFIX,udache.com,🎯 国内流量
-DOMAIN-SUFFIX,douyu.com,🎯 国内流量
-DOMAIN-SUFFIX,douyu.tv,🎯 国内流量
-DOMAIN-SUFFIX,douyuscdn.com,🎯 国内流量
-DOMAIN-SUFFIX,douyutv.com,🎯 国内流量
-DOMAIN-SUFFIX,epicgames.com,🎯 国内流量
-DOMAIN-SUFFIX,epicgames.dev,🎯 国内流量
-DOMAIN-SUFFIX,helpshift.com,🎯 国内流量
-DOMAIN-SUFFIX,paragon.com,🎯 国内流量
-DOMAIN-SUFFIX,unrealengine.com,🎯 国内流量
-DOMAIN-SUFFIX,dbankcdn.com,🎯 国内流量
-DOMAIN-SUFFIX,hc-cdn.com,🎯 国内流量
-DOMAIN-SUFFIX,hicloud.com,🎯 国内流量
-DOMAIN-SUFFIX,hihonor.com,🎯 国内流量
-DOMAIN-SUFFIX,huawei.com,🎯 国内流量
-DOMAIN-SUFFIX,huaweicloud.com,🎯 国内流量
-DOMAIN-SUFFIX,huaweishop.net,🎯 国内流量
-DOMAIN-SUFFIX,hwccpc.com,🎯 国内流量
-DOMAIN-SUFFIX,vmall.com,🎯 国内流量
-DOMAIN-SUFFIX,vmallres.com,🎯 国内流量
-DOMAIN-SUFFIX,allawnfs.com,🎯 国内流量
-DOMAIN-SUFFIX,allawno.com,🎯 国内流量
-DOMAIN-SUFFIX,allawntech.com,🎯 国内流量
-DOMAIN-SUFFIX,coloros.com,🎯 国内流量
-DOMAIN-SUFFIX,heytap.com,🎯 国内流量
-DOMAIN-SUFFIX,heytapcs.com,🎯 国内流量
-DOMAIN-SUFFIX,heytapdownload.com,🎯 国内流量
-DOMAIN-SUFFIX,heytapimage.com,🎯 国内流量
-DOMAIN-SUFFIX,heytapmobi.com,🎯 国内流量
-DOMAIN-SUFFIX,oppo.com,🎯 国内流量
-DOMAIN-SUFFIX,oppoer.me,🎯 国内流量
-DOMAIN-SUFFIX,oppomobile.com,🎯 国内流量
-DOMAIN-SUFFIX,iflyink.com,🎯 国内流量
-DOMAIN-SUFFIX,iflyrec.com,🎯 国内流量
-DOMAIN-SUFFIX,iflytek.com,🎯 国内流量
-DOMAIN-SUFFIX,71.am,🎯 国内流量
-DOMAIN-SUFFIX,71edge.com,🎯 国内流量
-DOMAIN-SUFFIX,iqiyi.com,🎯 国内流量
-DOMAIN-SUFFIX,iqiyipic.com,🎯 国内流量
-DOMAIN-SUFFIX,ppsimg.com,🎯 国内流量
-DOMAIN-SUFFIX,qiyi.com,🎯 国内流量
-DOMAIN-SUFFIX,qiyipic.com,🎯 国内流量
-DOMAIN-SUFFIX,qy.net,🎯 国内流量
-DOMAIN-SUFFIX,360buy.com,🎯 国内流量
-DOMAIN-SUFFIX,360buyimg.com,🎯 国内流量
-DOMAIN-SUFFIX,jcloudcs.com,🎯 国内流量
-DOMAIN-SUFFIX,jd.com,🎯 国内流量
-DOMAIN-SUFFIX,jd.hk,🎯 国内流量
-DOMAIN-SUFFIX,jdcloud.com,🎯 国内流量
-DOMAIN-SUFFIX,jdpay.com,🎯 国内流量
-DOMAIN-SUFFIX,paipai.com,🎯 国内流量
-DOMAIN-SUFFIX,iciba.com,🎯 国内流量
-DOMAIN-SUFFIX,ksosoft.com,🎯 国内流量
-DOMAIN-SUFFIX,ksyun.com,🎯 国内流量
-DOMAIN-SUFFIX,kuaishou.com,🎯 国内流量
-DOMAIN-SUFFIX,yximgs.com,🎯 国内流量
-DOMAIN-SUFFIX,meitu.com,🎯 国内流量
-DOMAIN-SUFFIX,meitudata.com,🎯 国内流量
-DOMAIN-SUFFIX,meitustat.com,🎯 国内流量
-DOMAIN-SUFFIX,meipai.com,🎯 国内流量
-DOMAIN-SUFFIX,le.com,🎯 国内流量
-DOMAIN-SUFFIX,lecloud.com,🎯 国内流量
-DOMAIN-SUFFIX,letv.com,🎯 国内流量
-DOMAIN-SUFFIX,letvcloud.com,🎯 国内流量
-DOMAIN-SUFFIX,letvimg.com,🎯 国内流量
-DOMAIN-SUFFIX,letvlive.com,🎯 国内流量
-DOMAIN-SUFFIX,letvstore.com,🎯 国内流量
-DOMAIN-SUFFIX,hitv.com,🎯 国内流量
-DOMAIN-SUFFIX,hunantv.com,🎯 国内流量
-DOMAIN-SUFFIX,mgtv.com,🎯 国内流量
-DOMAIN-SUFFIX,duokan.com,🎯 国内流量
-DOMAIN-SUFFIX,mi-img.com,🎯 国内流量
-DOMAIN-SUFFIX,mi.com,🎯 国内流量
-DOMAIN-SUFFIX,miui.com,🎯 国内流量
-DOMAIN-SUFFIX,xiaomi.com,🎯 国内流量
-DOMAIN-SUFFIX,xiaomi.net,🎯 国内流量
-DOMAIN-SUFFIX,xiaomicp.com,🎯 国内流量
-DOMAIN-SUFFIX,126.com,🎯 国内流量
-DOMAIN-SUFFIX,126.net,🎯 国内流量
-DOMAIN-SUFFIX,127.net,🎯 国内流量
-DOMAIN-SUFFIX,163.com,🎯 国内流量
-DOMAIN-SUFFIX,163yun.com,🎯 国内流量
-DOMAIN-SUFFIX,lofter.com,🎯 国内流量
-DOMAIN-SUFFIX,netease.com,🎯 国内流量
-DOMAIN-SUFFIX,ydstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,youdao.com,🎯 国内流量
-DOMAIN-SUFFIX,pplive.com,🎯 国内流量
-DOMAIN-SUFFIX,pptv.com,🎯 国内流量
-DOMAIN-SUFFIX,pinduoduo.com,🎯 国内流量
-DOMAIN-SUFFIX,yangkeduo.com,🎯 国内流量
-DOMAIN-SUFFIX,leju.com,🎯 国内流量
-DOMAIN-SUFFIX,miaopai.com,🎯 国内流量
-DOMAIN-SUFFIX,sina.com,🎯 国内流量
-DOMAIN-SUFFIX,sina.com.cn,🎯 国内流量
-DOMAIN-SUFFIX,sina.cn,🎯 国内流量
-DOMAIN-SUFFIX,sinaapp.com,🎯 国内流量
-DOMAIN-SUFFIX,sinaapp.cn,🎯 国内流量
-DOMAIN-SUFFIX,sinaimg.com,🎯 国内流量
-DOMAIN-SUFFIX,sinaimg.cn,🎯 国内流量
-DOMAIN-SUFFIX,weibo.com,🎯 国内流量
-DOMAIN-SUFFIX,weibo.cn,🎯 国内流量
-DOMAIN-SUFFIX,weibocdn.com,🎯 国内流量
-DOMAIN-SUFFIX,weibocdn.cn,🎯 国内流量
-DOMAIN-SUFFIX,xiaoka.tv,🎯 国内流量
-DOMAIN-SUFFIX,go2map.com,🎯 国内流量
-DOMAIN-SUFFIX,sogo.com,🎯 国内流量
-DOMAIN-SUFFIX,sogou.com,🎯 国内流量
-DOMAIN-SUFFIX,sogoucdn.com,🎯 国内流量
-DOMAIN-SUFFIX,sohu-inc.com,🎯 国内流量
-DOMAIN-SUFFIX,sohu.com,🎯 国内流量
-DOMAIN-SUFFIX,sohucs.com,🎯 国内流量
-DOMAIN-SUFFIX,sohuno.com,🎯 国内流量
-DOMAIN-SUFFIX,sohurdc.com,🎯 国内流量
-DOMAIN-SUFFIX,v-56.com,🎯 国内流量
-DOMAIN-SUFFIX,playstation.com,🎯 国内流量
-DOMAIN-SUFFIX,playstation.net,🎯 国内流量
-DOMAIN-SUFFIX,playstationnetwork.com,🎯 国内流量
-DOMAIN-SUFFIX,sony.com,🎯 国内流量
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com,🎯 国内流量
-DOMAIN-SUFFIX,cm.steampowered.com,🎯 国内流量
-DOMAIN-SUFFIX,steamcontent.com,🎯 国内流量
-DOMAIN-SUFFIX,steamusercontent.com,🎯 国内流量
-DOMAIN-SUFFIX,steamchina.com,🎯 国内流量
-DOMAIN,csgo.wmsj.cn,🎯 国内流量
-DOMAIN,dota2.wmsj.cn,🎯 国内流量
-DOMAIN,wmsjsteam.com,🎯 国内流量
-DOMAIN,dl.steam.clngaa.com,🎯 国内流量
-DOMAIN,dl.steam.ksyna.com,🎯 国内流量
-DOMAIN,st.dl.bscstorage.net,🎯 国内流量
-DOMAIN,st.dl.eccdnx.com,🎯 国内流量
-DOMAIN,st.dl.pinyuncloud.com,🎯 国内流量
-DOMAIN,xz.pphimalayanrt.com,🎯 国内流量
-DOMAIN,steampipe.steamcontent.tnkjmec.com,🎯 国内流量
-DOMAIN,steampowered.com.8686c.com,🎯 国内流量
-DOMAIN,steamstatic.com.8686c.com,🎯 国内流量
-DOMAIN-SUFFIX,foxmail.com,🎯 国内流量
-DOMAIN-SUFFIX,gtimg.com,🎯 国内流量
-DOMAIN-SUFFIX,idqqimg.com,🎯 国内流量
-DOMAIN-SUFFIX,igamecj.com,🎯 国内流量
-DOMAIN-SUFFIX,myapp.com,🎯 国内流量
-DOMAIN-SUFFIX,myqcloud.com,🎯 国内流量
-DOMAIN-SUFFIX,qq.com,🎯 国内流量
-DOMAIN-SUFFIX,qqmail.com,🎯 国内流量
-DOMAIN-SUFFIX,qqurl.com,🎯 国内流量
-DOMAIN-SUFFIX,smtcdns.com,🎯 国内流量
-DOMAIN-SUFFIX,smtcdns.net,🎯 国内流量
-DOMAIN-SUFFIX,soso.com,🎯 国内流量
-DOMAIN-SUFFIX,tencent-cloud.net,🎯 国内流量
-DOMAIN-SUFFIX,tencent.com,🎯 国内流量
-DOMAIN-SUFFIX,tencentmind.com,🎯 国内流量
-DOMAIN-SUFFIX,tenpay.com,🎯 国内流量
-DOMAIN-SUFFIX,wechat.com,🎯 国内流量
-DOMAIN-SUFFIX,weixin.com,🎯 国内流量
-DOMAIN-SUFFIX,weiyun.com,🎯 国内流量
-DOMAIN-SUFFIX,appsimg.com,🎯 国内流量
-DOMAIN-SUFFIX,appvipshop.com,🎯 国内流量
-DOMAIN-SUFFIX,vip.com,🎯 国内流量
-DOMAIN-SUFFIX,vipstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,ximalaya.com,🎯 国内流量
-DOMAIN-SUFFIX,xmcdn.com,🎯 国内流量
-DOMAIN-SUFFIX,00cdn.com,🎯 国内流量
-DOMAIN-SUFFIX,88cdn.com,🎯 国内流量
-DOMAIN-SUFFIX,kanimg.com,🎯 国内流量
-DOMAIN-SUFFIX,kankan.com,🎯 国内流量
-DOMAIN-SUFFIX,p2cdn.com,🎯 国内流量
-DOMAIN-SUFFIX,sandai.net,🎯 国内流量
-DOMAIN-SUFFIX,thundercdn.com,🎯 国内流量
-DOMAIN-SUFFIX,xunlei.com,🎯 国内流量
-DOMAIN-SUFFIX,got001.com,🎯 国内流量
-DOMAIN-SUFFIX,p4pfile.com,🎯 国内流量
-DOMAIN-SUFFIX,rrys.tv,🎯 国内流量
-DOMAIN-SUFFIX,rrys2020.com,🎯 国内流量
-DOMAIN-SUFFIX,yyets.com,🎯 国内流量
-DOMAIN-SUFFIX,zimuzu.io,🎯 国内流量
-DOMAIN-SUFFIX,zimuzu.tv,🎯 国内流量
-DOMAIN-SUFFIX,zmz001.com,🎯 国内流量
-DOMAIN-SUFFIX,zmz002.com,🎯 国内流量
-DOMAIN-SUFFIX,zmz003.com,🎯 国内流量
-DOMAIN-SUFFIX,zmz004.com,🎯 国内流量
-DOMAIN-SUFFIX,zmz2019.com,🎯 国内流量
-DOMAIN-SUFFIX,zmzapi.com,🎯 国内流量
-DOMAIN-SUFFIX,zmzapi.net,🎯 国内流量
-DOMAIN-SUFFIX,zmzfile.com,🎯 国内流量
-DOMAIN-SUFFIX,teamviewer.com,🎯 国内流量
-IP-CIDR,139.220.243.27/32,🎯 国内流量,no-resolve
-IP-CIDR,172.16.102.56/32,🎯 国内流量,no-resolve
-IP-CIDR,185.188.32.1/28,🎯 国内流量,no-resolve
-IP-CIDR,221.226.128.146/32,🎯 国内流量,no-resolve
-IP6-CIDR,2a0b:b580::/48,🎯 国内流量,no-resolve
-IP6-CIDR,2a0b:b581::/48,🎯 国内流量,no-resolve
-IP6-CIDR,2a0b:b582::/48,🎯 国内流量,no-resolve
-IP6-CIDR,2a0b:b583::/48,🎯 国内流量,no-resolve
-DOMAIN-SUFFIX,baomitu.com,🎯 国内流量
-DOMAIN-SUFFIX,bootcss.com,🎯 国内流量
-DOMAIN-SUFFIX,jiasule.com,🎯 国内流量
-DOMAIN-SUFFIX,staticfile.org,🎯 国内流量
-DOMAIN-SUFFIX,upaiyun.com,🎯 国内流量
-DOMAIN-SUFFIX,doh.pub,🎯 国内流量
-DOMAIN-SUFFIX,dns.alidns.com,🎯 国内流量
-DOMAIN-SUFFIX,doh.360.cn,🎯 国内流量
-IP-CIDR,1.12.12.12/32,🎯 国内流量,no-resolve
-DOMAIN-SUFFIX,10010.com,🎯 国内流量
-DOMAIN-SUFFIX,115.com,🎯 国内流量
-DOMAIN-SUFFIX,12306.com,🎯 国内流量
-DOMAIN-SUFFIX,17173.com,🎯 国内流量
-DOMAIN-SUFFIX,178.com,🎯 国内流量
-DOMAIN-SUFFIX,17k.com,🎯 国内流量
-DOMAIN-SUFFIX,360doc.com,🎯 国内流量
-DOMAIN-SUFFIX,36kr.com,🎯 国内流量
-DOMAIN-SUFFIX,3dmgame.com,🎯 国内流量
-DOMAIN-SUFFIX,51cto.com,🎯 国内流量
-DOMAIN-SUFFIX,51job.com,🎯 国内流量
-DOMAIN-SUFFIX,51jobcdn.com,🎯 国内流量
-DOMAIN-SUFFIX,56.com,🎯 国内流量
-DOMAIN-SUFFIX,8686c.com,🎯 国内流量
-DOMAIN-SUFFIX,abchina.com,🎯 国内流量
-DOMAIN-SUFFIX,abercrombie.com,🎯 国内流量
-DOMAIN-SUFFIX,acfun.tv,🎯 国内流量
-DOMAIN-SUFFIX,air-matters.com,🎯 国内流量
-DOMAIN-SUFFIX,air-matters.io,🎯 国内流量
-DOMAIN-SUFFIX,aixifan.com,🎯 国内流量
-DOMAIN-SUFFIX,algocasts.io,🎯 国内流量
-DOMAIN-SUFFIX,babytree.com,🎯 国内流量
-DOMAIN-SUFFIX,babytreeimg.com,🎯 国内流量
-DOMAIN-SUFFIX,baicizhan.com,🎯 国内流量
-DOMAIN-SUFFIX,baidupan.com,🎯 国内流量
-DOMAIN-SUFFIX,baike.com,🎯 国内流量
-DOMAIN-SUFFIX,biqudu.com,🎯 国内流量
-DOMAIN-SUFFIX,biquge.com,🎯 国内流量
-DOMAIN-SUFFIX,bitauto.com,🎯 国内流量
-DOMAIN-SUFFIX,bosszhipin.com,🎯 国内流量
-DOMAIN-SUFFIX,c-ctrip.com,🎯 国内流量
-DOMAIN-SUFFIX,camera360.com,🎯 国内流量
-DOMAIN-SUFFIX,cdnmama.com,🎯 国内流量
-DOMAIN-SUFFIX,chaoxing.com,🎯 国内流量
-DOMAIN-SUFFIX,che168.com,🎯 国内流量
-DOMAIN-SUFFIX,chinacache.net,🎯 国内流量
-DOMAIN-SUFFIX,chinaso.com,🎯 国内流量
-DOMAIN-SUFFIX,chinaz.com,🎯 国内流量
-DOMAIN-SUFFIX,chinaz.net,🎯 国内流量
-DOMAIN-SUFFIX,chuimg.com,🎯 国内流量
-DOMAIN-SUFFIX,cibntv.net,🎯 国内流量
-DOMAIN-SUFFIX,clouddn.com,🎯 国内流量
-DOMAIN-SUFFIX,cloudxns.net,🎯 国内流量
-DOMAIN-SUFFIX,cn163.net,🎯 国内流量
-DOMAIN-SUFFIX,cnblogs.com,🎯 国内流量
-DOMAIN-SUFFIX,cnki.net,🎯 国内流量
-DOMAIN-SUFFIX,cnmstl.net,🎯 国内流量
-DOMAIN-SUFFIX,coolapk.com,🎯 国内流量
-DOMAIN-SUFFIX,coolapkmarket.com,🎯 国内流量
-DOMAIN-SUFFIX,csdn.net,🎯 国内流量
-DOMAIN-SUFFIX,ctrip.com,🎯 国内流量
-DOMAIN-SUFFIX,dangdang.com,🎯 国内流量
-DOMAIN-SUFFIX,dfcfw.com,🎯 国内流量
-DOMAIN-SUFFIX,dianping.com,🎯 国内流量
-DOMAIN-SUFFIX,dilidili.wang,🎯 国内流量
-DOMAIN-SUFFIX,douban.com,🎯 国内流量
-DOMAIN-SUFFIX,doubanio.com,🎯 国内流量
-DOMAIN-SUFFIX,dpfile.com,🎯 国内流量
-DOMAIN-SUFFIX,duowan.com,🎯 国内流量
-DOMAIN-SUFFIX,dxycdn.com,🎯 国内流量
-DOMAIN-SUFFIX,dytt8.net,🎯 国内流量
-DOMAIN-SUFFIX,easou.com,🎯 国内流量
-DOMAIN-SUFFIX,eastday.com,🎯 国内流量
-DOMAIN-SUFFIX,eastmoney.com,🎯 国内流量
-DOMAIN-SUFFIX,ecitic.com,🎯 国内流量
-DOMAIN-SUFFIX,element-plus.org,🎯 国内流量
-DOMAIN-SUFFIX,ewqcxz.com,🎯 国内流量
-DOMAIN-SUFFIX,fang.com,🎯 国内流量
-DOMAIN-SUFFIX,fantasy.tv,🎯 国内流量
-DOMAIN-SUFFIX,feng.com,🎯 国内流量
-DOMAIN-SUFFIX,fengkongcloud.com,🎯 国内流量
-DOMAIN-SUFFIX,fir.im,🎯 国内流量
-DOMAIN-SUFFIX,frdic.com,🎯 国内流量
-DOMAIN-SUFFIX,fresh-ideas.cc,🎯 国内流量
-DOMAIN-SUFFIX,ganji.com,🎯 国内流量
-DOMAIN-SUFFIX,ganjistatic1.com,🎯 国内流量
-DOMAIN-SUFFIX,geetest.com,🎯 国内流量
-DOMAIN-SUFFIX,geilicdn.com,🎯 国内流量
-DOMAIN-SUFFIX,ghpym.com,🎯 国内流量
-DOMAIN-SUFFIX,godic.net,🎯 国内流量
-DOMAIN-SUFFIX,guazi.com,🎯 国内流量
-DOMAIN-SUFFIX,gwdang.com,🎯 国内流量
-DOMAIN-SUFFIX,gzlzfm.com,🎯 国内流量
-DOMAIN-SUFFIX,haibian.com,🎯 国内流量
-DOMAIN-SUFFIX,haosou.com,🎯 国内流量
-DOMAIN-SUFFIX,hollisterco.com,🎯 国内流量
-DOMAIN-SUFFIX,hongxiu.com,🎯 国内流量
-DOMAIN-SUFFIX,huajiao.com,🎯 国内流量
-DOMAIN-SUFFIX,hupu.com,🎯 国内流量
-DOMAIN-SUFFIX,huxiucdn.com,🎯 国内流量
-DOMAIN-SUFFIX,huya.com,🎯 国内流量
-DOMAIN-SUFFIX,ifeng.com,🎯 国内流量
-DOMAIN-SUFFIX,ifengimg.com,🎯 国内流量
-DOMAIN-SUFFIX,images-amazon.com,🎯 国内流量
-DOMAIN-SUFFIX,infzm.com,🎯 国内流量
-DOMAIN-SUFFIX,ipip.net,🎯 国内流量
-DOMAIN-SUFFIX,it168.com,🎯 国内流量
-DOMAIN-SUFFIX,ithome.com,🎯 国内流量
-DOMAIN-SUFFIX,ixdzs.com,🎯 国内流量
-DOMAIN-SUFFIX,jianguoyun.com,🎯 国内流量
-DOMAIN-SUFFIX,jianshu.com,🎯 国内流量
-DOMAIN-SUFFIX,jianshu.io,🎯 国内流量
-DOMAIN-SUFFIX,jianshuapi.com,🎯 国内流量
-DOMAIN-SUFFIX,jiathis.com,🎯 国内流量
-DOMAIN-SUFFIX,jmstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,jumei.com,🎯 国内流量
-DOMAIN-SUFFIX,kaola.com,🎯 国内流量
-DOMAIN-SUFFIX,knewone.com,🎯 国内流量
-DOMAIN-SUFFIX,koowo.com,🎯 国内流量
-DOMAIN-SUFFIX,ksyungslb.com,🎯 国内流量
-DOMAIN-SUFFIX,kuaidi100.com,🎯 国内流量
-DOMAIN-SUFFIX,kugou.com,🎯 国内流量
-DOMAIN-SUFFIX,lancdns.com,🎯 国内流量
-DOMAIN-SUFFIX,landiannews.com,🎯 国内流量
-DOMAIN-SUFFIX,lanzou.com,🎯 国内流量
-DOMAIN-SUFFIX,lanzoui.com,🎯 国内流量
-DOMAIN-SUFFIX,lanzoux.com,🎯 国内流量
-DOMAIN-SUFFIX,lemicp.com,🎯 国内流量
-DOMAIN-SUFFIX,letitfly.me,🎯 国内流量
-DOMAIN-SUFFIX,lizhi.fm,🎯 国内流量
-DOMAIN-SUFFIX,lizhi.io,🎯 国内流量
-DOMAIN-SUFFIX,lizhifm.com,🎯 国内流量
-DOMAIN-SUFFIX,luoo.net,🎯 国内流量
-DOMAIN-SUFFIX,lvmama.com,🎯 国内流量
-DOMAIN-SUFFIX,lxdns.com,🎯 国内流量
-DOMAIN-SUFFIX,maoyan.com,🎯 国内流量
-DOMAIN-SUFFIX,meilishuo.com,🎯 国内流量
-DOMAIN-SUFFIX,meituan.com,🎯 国内流量
-DOMAIN-SUFFIX,meituan.net,🎯 国内流量
-DOMAIN-SUFFIX,meizu.com,🎯 国内流量
-DOMAIN-SUFFIX,migucloud.com,🎯 国内流量
-DOMAIN-SUFFIX,miguvideo.com,🎯 国内流量
-DOMAIN-SUFFIX,mobike.com,🎯 国内流量
-DOMAIN-SUFFIX,mogu.com,🎯 国内流量
-DOMAIN-SUFFIX,mogucdn.com,🎯 国内流量
-DOMAIN-SUFFIX,mogujie.com,🎯 国内流量
-DOMAIN-SUFFIX,moji.com,🎯 国内流量
-DOMAIN-SUFFIX,moke.com,🎯 国内流量
-DOMAIN-SUFFIX,msstatic.com,🎯 国内流量
-DOMAIN-SUFFIX,mubu.com,🎯 国内流量
-DOMAIN-SUFFIX,myunlu.com,🎯 国内流量
-DOMAIN-SUFFIX,nruan.com,🎯 国内流量
-DOMAIN-SUFFIX,nuomi.com,🎯 国内流量
-DOMAIN-SUFFIX,onedns.net,🎯 国内流量
-DOMAIN-SUFFIX,oneplus.com,🎯 国内流量
-DOMAIN-SUFFIX,onlinedown.net,🎯 国内流量
-DOMAIN-SUFFIX,oracle.com,🎯 国内流量
-DOMAIN-SUFFIX,oschina.net,🎯 国内流量
-DOMAIN-SUFFIX,ourdvs.com,🎯 国内流量
-DOMAIN-SUFFIX,polyv.net,🎯 国内流量
-DOMAIN-SUFFIX,qbox.me,🎯 国内流量
-DOMAIN-SUFFIX,qcloud.com,🎯 国内流量
-DOMAIN-SUFFIX,qcloudcdn.com,🎯 国内流量
-DOMAIN-SUFFIX,qdaily.com,🎯 国内流量
-DOMAIN-SUFFIX,qdmm.com,🎯 国内流量
-DOMAIN-SUFFIX,qhimg.com,🎯 国内流量
-DOMAIN-SUFFIX,qianqian.com,🎯 国内流量
-DOMAIN-SUFFIX,qidian.com,🎯 国内流量
-DOMAIN-SUFFIX,qihucdn.com,🎯 国内流量
-DOMAIN-SUFFIX,qin.io,🎯 国内流量
-DOMAIN-SUFFIX,qiniu.com,🎯 国内流量
-DOMAIN-SUFFIX,qiniucdn.com,🎯 国内流量
-DOMAIN-SUFFIX,qiniudn.com,🎯 国内流量
-DOMAIN-SUFFIX,qiushibaike.com,🎯 国内流量
-DOMAIN-SUFFIX,quanmin.tv,🎯 国内流量
-DOMAIN-SUFFIX,qunar.com,🎯 国内流量
-DOMAIN-SUFFIX,qunarzz.com,🎯 国内流量
-DOMAIN-SUFFIX,realme.com,🎯 国内流量
-DOMAIN-SUFFIX,repaik.com,🎯 国内流量
-DOMAIN-SUFFIX,ruguoapp.com,🎯 国内流量
-DOMAIN-SUFFIX,runoob.com,🎯 国内流量
-DOMAIN-SUFFIX,sankuai.com,🎯 国内流量
-DOMAIN-SUFFIX,segmentfault.com,🎯 国内流量
-DOMAIN-SUFFIX,sf-express.com,🎯 国内流量
-DOMAIN-SUFFIX,shumilou.net,🎯 国内流量
-DOMAIN-SUFFIX,simplecd.me,🎯 国内流量
-DOMAIN-SUFFIX,smzdm.com,🎯 国内流量
-DOMAIN-SUFFIX,snwx.com,🎯 国内流量
-DOMAIN-SUFFIX,soufunimg.com,🎯 国内流量
-DOMAIN-SUFFIX,sspai.com,🎯 国内流量
-DOMAIN-SUFFIX,startssl.com,🎯 国内流量
-DOMAIN-SUFFIX,suning.com,🎯 国内流量
-DOMAIN-SUFFIX,synology.com,🎯 国内流量
-DOMAIN-SUFFIX,taihe.com,🎯 国内流量
-DOMAIN-SUFFIX,th-sjy.com,🎯 国内流量
-DOMAIN-SUFFIX,tianqi.com,🎯 国内流量
-DOMAIN-SUFFIX,tianqistatic.com,🎯 国内流量
-DOMAIN-SUFFIX,tianyancha.com,🎯 国内流量
-DOMAIN-SUFFIX,tianyaui.com,🎯 国内流量
-DOMAIN-SUFFIX,tietuku.com,🎯 国内流量
-DOMAIN-SUFFIX,tiexue.net,🎯 国内流量
-DOMAIN-SUFFIX,tmiaoo.com,🎯 国内流量
-DOMAIN-SUFFIX,trip.com,🎯 国内流量
-DOMAIN-SUFFIX,ttmeiju.com,🎯 国内流量
-DOMAIN-SUFFIX,tudou.com,🎯 国内流量
-DOMAIN-SUFFIX,tuniu.com,🎯 国内流量
-DOMAIN-SUFFIX,tuniucdn.com,🎯 国内流量
-DOMAIN-SUFFIX,umengcloud.com,🎯 国内流量
-DOMAIN-SUFFIX,upyun.com,🎯 国内流量
-DOMAIN-SUFFIX,uxengine.net,🎯 国内流量
-DOMAIN-SUFFIX,videocc.net,🎯 国内流量
-DOMAIN-SUFFIX,vivo.com,🎯 国内流量
-DOMAIN-SUFFIX,wandoujia.com,🎯 国内流量
-DOMAIN-SUFFIX,weather.com,🎯 国内流量
-DOMAIN-SUFFIX,weico.cc,🎯 国内流量
-DOMAIN-SUFFIX,weidian.com,🎯 国内流量
-DOMAIN-SUFFIX,weiphone.com,🎯 国内流量
-DOMAIN-SUFFIX,weiphone.net,🎯 国内流量
-DOMAIN-SUFFIX,womai.com,🎯 国内流量
-DOMAIN-SUFFIX,wscdns.com,🎯 国内流量
-DOMAIN-SUFFIX,xdrig.com,🎯 国内流量
-DOMAIN-SUFFIX,xhscdn.com,🎯 国内流量
-DOMAIN-SUFFIX,xiachufang.com,🎯 国内流量
-DOMAIN-SUFFIX,xiaohongshu.com,🎯 国内流量
-DOMAIN-SUFFIX,xiaojukeji.com,🎯 国内流量
-DOMAIN-SUFFIX,xinhuanet.com,🎯 国内流量
-DOMAIN-SUFFIX,xip.io,🎯 国内流量
-DOMAIN-SUFFIX,xitek.com,🎯 国内流量
-DOMAIN-SUFFIX,xiumi.us,🎯 国内流量
-DOMAIN-SUFFIX,xslb.net,🎯 国内流量
-DOMAIN-SUFFIX,xueqiu.com,🎯 国内流量
-DOMAIN-SUFFIX,yach.me,🎯 国内流量
-DOMAIN-SUFFIX,yeepay.com,🎯 国内流量
-DOMAIN-SUFFIX,yhd.com,🎯 国内流量
-DOMAIN-SUFFIX,yihaodianimg.com,🎯 国内流量
-DOMAIN-SUFFIX,yinxiang.com,🎯 国内流量
-DOMAIN-SUFFIX,yinyuetai.com,🎯 国内流量
-DOMAIN-SUFFIX,yixia.com,🎯 国内流量
-DOMAIN-SUFFIX,ys168.com,🎯 国内流量
-DOMAIN-SUFFIX,yuewen.com,🎯 国内流量
-DOMAIN-SUFFIX,yy.com,🎯 国内流量
-DOMAIN-SUFFIX,yystatic.com,🎯 国内流量
-DOMAIN-SUFFIX,zealer.com,🎯 国内流量
-DOMAIN-SUFFIX,zhangzishi.cc,🎯 国内流量
-DOMAIN-SUFFIX,zhanqi.tv,🎯 国内流量
-DOMAIN-SUFFIX,zhaopin.com,🎯 国内流量
-DOMAIN-SUFFIX,zhihu.com,🎯 国内流量
-DOMAIN-SUFFIX,zhimg.com,🎯 国内流量
-DOMAIN-SUFFIX,zhipin.com,🎯 国内流量
-DOMAIN-SUFFIX,zhongsou.com,🎯 国内流量
-DOMAIN-SUFFIX,zhuihd.com,🎯 国内流量
-IP-CIDR,8.128.0.0/10,🎯 国内流量,no-resolve
-IP-CIDR,8.208.0.0/12,🎯 国内流量,no-resolve
-IP-CIDR,14.1.112.0/22,🎯 国内流量,no-resolve
-IP-CIDR,41.222.240.0/22,🎯 国内流量,no-resolve
-IP-CIDR,41.223.119.0/24,🎯 国内流量,no-resolve
-IP-CIDR,43.242.168.0/22,🎯 国内流量,no-resolve
-IP-CIDR,45.112.212.0/22,🎯 国内流量,no-resolve
-IP-CIDR,47.52.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,47.56.0.0/15,🎯 国内流量,no-resolve
-IP-CIDR,47.74.0.0/15,🎯 国内流量,no-resolve
-IP-CIDR,47.76.0.0/14,🎯 国内流量,no-resolve
-IP-CIDR,47.80.0.0/12,🎯 国内流量,no-resolve
-IP-CIDR,47.235.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,47.236.0.0/14,🎯 国内流量,no-resolve
-IP-CIDR,47.240.0.0/14,🎯 国内流量,no-resolve
-IP-CIDR,47.244.0.0/15,🎯 国内流量,no-resolve
-IP-CIDR,47.246.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,47.250.0.0/15,🎯 国内流量,no-resolve
-IP-CIDR,47.252.0.0/15,🎯 国内流量,no-resolve
-IP-CIDR,47.254.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,59.82.0.0/20,🎯 国内流量,no-resolve
-IP-CIDR,59.82.240.0/21,🎯 国内流量,no-resolve
-IP-CIDR,59.82.248.0/22,🎯 国内流量,no-resolve
-IP-CIDR,72.254.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,103.38.56.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.52.76.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.206.40.0/22,🎯 国内流量,no-resolve
-IP-CIDR,110.76.21.0/24,🎯 国内流量,no-resolve
-IP-CIDR,110.76.23.0/24,🎯 国内流量,no-resolve
-IP-CIDR,112.125.0.0/17,🎯 国内流量,no-resolve
-IP-CIDR,116.251.64.0/18,🎯 国内流量,no-resolve
-IP-CIDR,119.38.208.0/20,🎯 国内流量,no-resolve
-IP-CIDR,119.38.224.0/20,🎯 国内流量,no-resolve
-IP-CIDR,119.42.224.0/20,🎯 国内流量,no-resolve
-IP-CIDR,139.95.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,140.205.1.0/24,🎯 国内流量,no-resolve
-IP-CIDR,140.205.122.0/24,🎯 国内流量,no-resolve
-IP-CIDR,147.139.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,149.129.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,155.102.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,161.117.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,163.181.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,170.33.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,198.11.128.0/18,🎯 国内流量,no-resolve
-IP-CIDR,205.204.96.0/19,🎯 国内流量,no-resolve
-IP-CIDR,19.28.0.0/23,🎯 国内流量,no-resolve
-IP-CIDR,45.40.192.0/19,🎯 国内流量,no-resolve
-IP-CIDR,49.51.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,62.234.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,94.191.0.0/17,🎯 国内流量,no-resolve
-IP-CIDR,103.7.28.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.116.50.0/23,🎯 国内流量,no-resolve
-IP-CIDR,103.231.60.0/24,🎯 国内流量,no-resolve
-IP-CIDR,109.244.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,111.30.128.0/21,🎯 国内流量,no-resolve
-IP-CIDR,111.30.136.0/24,🎯 国内流量,no-resolve
-IP-CIDR,111.30.139.0/24,🎯 国内流量,no-resolve
-IP-CIDR,111.30.140.0/23,🎯 国内流量,no-resolve
-IP-CIDR,115.159.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,119.28.0.0/15,🎯 国内流量,no-resolve
-IP-CIDR,120.88.56.0/23,🎯 国内流量,no-resolve
-IP-CIDR,121.51.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,129.28.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,129.204.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,129.211.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,132.232.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,134.175.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,146.56.192.0/18,🎯 国内流量,no-resolve
-IP-CIDR,148.70.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,150.109.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,152.136.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,162.14.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,162.62.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,170.106.130.0/24,🎯 国内流量,no-resolve
-IP-CIDR,182.254.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,188.131.128.0/17,🎯 国内流量,no-resolve
-IP-CIDR,203.195.128.0/17,🎯 国内流量,no-resolve
-IP-CIDR,203.205.128.0/17,🎯 国内流量,no-resolve
-IP-CIDR,210.4.138.0/24,🎯 国内流量,no-resolve
-IP-CIDR,211.152.128.0/23,🎯 国内流量,no-resolve
-IP-CIDR,211.152.132.0/23,🎯 国内流量,no-resolve
-IP-CIDR,211.152.148.0/23,🎯 国内流量,no-resolve
-IP-CIDR,212.64.0.0/17,🎯 国内流量,no-resolve
-IP-CIDR,212.129.128.0/17,🎯 国内流量,no-resolve
-IP-CIDR,45.113.192.0/22,🎯 国内流量,no-resolve
-IP-CIDR,63.217.23.0/24,🎯 国内流量,no-resolve
-IP-CIDR,63.243.252.0/24,🎯 国内流量,no-resolve
-IP-CIDR,103.235.44.0/22,🎯 国内流量,no-resolve
-IP-CIDR,104.193.88.0/22,🎯 国内流量,no-resolve
-IP-CIDR,106.12.0.0/15,🎯 国内流量,no-resolve
-IP-CIDR,114.28.224.0/20,🎯 国内流量,no-resolve
-IP-CIDR,119.63.192.0/21,🎯 国内流量,no-resolve
-IP-CIDR,180.76.0.0/24,🎯 国内流量,no-resolve
-IP-CIDR,180.76.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,182.61.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,185.10.104.0/22,🎯 国内流量,no-resolve
-IP-CIDR,202.46.48.0/20,🎯 国内流量,no-resolve
-IP-CIDR,203.90.238.0/24,🎯 国内流量,no-resolve
-IP-CIDR,43.254.0.0/22,🎯 国内流量,no-resolve
-IP-CIDR,45.249.212.0/22,🎯 国内流量,no-resolve
-IP-CIDR,49.4.0.0/17,🎯 国内流量,no-resolve
-IP-CIDR,78.101.192.0/19,🎯 国内流量,no-resolve
-IP-CIDR,78.101.224.0/20,🎯 国内流量,no-resolve
-IP-CIDR,81.52.161.0/24,🎯 国内流量,no-resolve
-IP-CIDR,85.97.220.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.31.200.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.69.140.0/23,🎯 国内流量,no-resolve
-IP-CIDR,103.218.216.0/22,🎯 国内流量,no-resolve
-IP-CIDR,114.115.128.0/17,🎯 国内流量,no-resolve
-IP-CIDR,114.116.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,116.63.128.0/18,🎯 国内流量,no-resolve
-IP-CIDR,116.66.184.0/22,🎯 国内流量,no-resolve
-IP-CIDR,116.71.96.0/20,🎯 国内流量,no-resolve
-IP-CIDR,116.71.128.0/21,🎯 国内流量,no-resolve
-IP-CIDR,116.71.136.0/22,🎯 国内流量,no-resolve
-IP-CIDR,116.71.141.0/24,🎯 国内流量,no-resolve
-IP-CIDR,116.71.142.0/24,🎯 国内流量,no-resolve
-IP-CIDR,116.71.243.0/24,🎯 国内流量,no-resolve
-IP-CIDR,116.71.244.0/24,🎯 国内流量,no-resolve
-IP-CIDR,116.71.251.0/24,🎯 国内流量,no-resolve
-IP-CIDR,117.78.0.0/18,🎯 国内流量,no-resolve
-IP-CIDR,119.3.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,119.8.0.0/21,🎯 国内流量,no-resolve
-IP-CIDR,119.8.32.0/19,🎯 国内流量,no-resolve
-IP-CIDR,121.36.0.0/17,🎯 国内流量,no-resolve
-IP-CIDR,121.36.128.0/18,🎯 国内流量,no-resolve
-IP-CIDR,121.37.0.0/17,🎯 国内流量,no-resolve
-IP-CIDR,122.112.128.0/17,🎯 国内流量,no-resolve
-IP-CIDR,139.9.0.0/18,🎯 国内流量,no-resolve
-IP-CIDR,139.9.64.0/19,🎯 国内流量,no-resolve
-IP-CIDR,139.9.100.0/22,🎯 国内流量,no-resolve
-IP-CIDR,139.9.104.0/21,🎯 国内流量,no-resolve
-IP-CIDR,139.9.112.0/20,🎯 国内流量,no-resolve
-IP-CIDR,139.9.128.0/18,🎯 国内流量,no-resolve
-IP-CIDR,139.9.192.0/19,🎯 国内流量,no-resolve
-IP-CIDR,139.9.224.0/20,🎯 国内流量,no-resolve
-IP-CIDR,139.9.240.0/21,🎯 国内流量,no-resolve
-IP-CIDR,139.9.248.0/22,🎯 国内流量,no-resolve
-IP-CIDR,139.159.128.0/19,🎯 国内流量,no-resolve
-IP-CIDR,139.159.160.0/22,🎯 国内流量,no-resolve
-IP-CIDR,139.159.164.0/23,🎯 国内流量,no-resolve
-IP-CIDR,139.159.168.0/21,🎯 国内流量,no-resolve
-IP-CIDR,139.159.176.0/20,🎯 国内流量,no-resolve
-IP-CIDR,139.159.192.0/18,🎯 国内流量,no-resolve
-IP-CIDR,159.138.0.0/18,🎯 国内流量,no-resolve
-IP-CIDR,159.138.64.0/21,🎯 国内流量,no-resolve
-IP-CIDR,159.138.79.0/24,🎯 国内流量,no-resolve
-IP-CIDR,159.138.80.0/20,🎯 国内流量,no-resolve
-IP-CIDR,159.138.96.0/20,🎯 国内流量,no-resolve
-IP-CIDR,159.138.112.0/21,🎯 国内流量,no-resolve
-IP-CIDR,159.138.125.0/24,🎯 国内流量,no-resolve
-IP-CIDR,159.138.128.0/18,🎯 国内流量,no-resolve
-IP-CIDR,159.138.192.0/20,🎯 国内流量,no-resolve
-IP-CIDR,159.138.223.0/24,🎯 国内流量,no-resolve
-IP-CIDR,159.138.224.0/19,🎯 国内流量,no-resolve
-IP-CIDR,168.195.92.0/22,🎯 国内流量,no-resolve
-IP-CIDR,185.176.76.0/22,🎯 国内流量,no-resolve
-IP-CIDR,197.199.0.0/18,🎯 国内流量,no-resolve
-IP-CIDR,197.210.163.0/24,🎯 国内流量,no-resolve
-IP-CIDR,197.252.1.0/24,🎯 国内流量,no-resolve
-IP-CIDR,197.252.2.0/23,🎯 国内流量,no-resolve
-IP-CIDR,197.252.4.0/22,🎯 国内流量,no-resolve
-IP-CIDR,197.252.8.0/21,🎯 国内流量,no-resolve
-IP-CIDR,200.32.52.0/24,🎯 国内流量,no-resolve
-IP-CIDR,200.32.54.0/24,🎯 国内流量,no-resolve
-IP-CIDR,200.32.57.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.0.0/22,🎯 国内流量,no-resolve
-IP-CIDR,203.135.4.0/23,🎯 国内流量,no-resolve
-IP-CIDR,203.135.8.0/23,🎯 国内流量,no-resolve
-IP-CIDR,203.135.11.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.13.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.20.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.22.0/23,🎯 国内流量,no-resolve
-IP-CIDR,203.135.24.0/23,🎯 国内流量,no-resolve
-IP-CIDR,203.135.26.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.29.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.33.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.38.0/23,🎯 国内流量,no-resolve
-IP-CIDR,203.135.40.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.43.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.48.0/24,🎯 国内流量,no-resolve
-IP-CIDR,203.135.50.0/24,🎯 国内流量,no-resolve
-IP-CIDR,42.186.0.0/16,🎯 国内流量,no-resolve
-IP-CIDR,45.127.128.0/22,🎯 国内流量,no-resolve
-IP-CIDR,45.195.24.0/24,🎯 国内流量,no-resolve
-IP-CIDR,45.253.132.0/22,🎯 国内流量,no-resolve
-IP-CIDR,45.253.240.0/22,🎯 国内流量,no-resolve
-IP-CIDR,45.254.48.0/23,🎯 国内流量,no-resolve
-IP-CIDR,59.111.0.0/20,🎯 国内流量,no-resolve
-IP-CIDR,59.111.128.0/17,🎯 国内流量,no-resolve
-IP-CIDR,103.71.120.0/21,🎯 国内流量,no-resolve
-IP-CIDR,103.71.128.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.71.196.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.71.200.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.72.12.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.72.18.0/23,🎯 国内流量,no-resolve
-IP-CIDR,103.72.24.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.72.28.0/23,🎯 国内流量,no-resolve
-IP-CIDR,103.72.38.0/23,🎯 国内流量,no-resolve
-IP-CIDR,103.72.40.0/23,🎯 国内流量,no-resolve
-IP-CIDR,103.72.44.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.72.48.0/21,🎯 国内流量,no-resolve
-IP-CIDR,103.72.128.0/21,🎯 国内流量,no-resolve
-IP-CIDR,103.74.24.0/21,🎯 国内流量,no-resolve
-IP-CIDR,103.74.48.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.126.92.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.129.252.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.131.252.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.135.240.0/22,🎯 国内流量,no-resolve
-IP-CIDR,103.196.64.0/22,🎯 国内流量,no-resolve
-IP-CIDR,106.2.32.0/19,🎯 国内流量,no-resolve
-IP-CIDR,106.2.64.0/18,🎯 国内流量,no-resolve
-IP-CIDR,114.113.196.0/22,🎯 国内流量,no-resolve
-IP-CIDR,114.113.200.0/22,🎯 国内流量,no-resolve
-IP-CIDR,115.236.112.0/20,🎯 国内流量,no-resolve
-IP-CIDR,115.238.76.0/22,🎯 国内流量,no-resolve
-IP-CIDR,123.58.160.0/19,🎯 国内流量,no-resolve
-IP-CIDR,223.252.192.0/19,🎯 国内流量,no-resolve
-IP-CIDR,101.198.128.0/18,🎯 国内流量,no-resolve
-IP-CIDR,101.198.192.0/19,🎯 国内流量,no-resolve
-IP-CIDR,101.199.196.0/22,🎯 国内流量,no-resolve
-DOMAIN-SUFFIX,smtp,🎯 国内流量
-DOMAIN-KEYWORD,aria2,🎯 国内流量
-GEOIP,CN,🎯 国内流量
+DOMAIN-SUFFIX,13th.tech,DIRECT
+DOMAIN-SUFFIX,423down.com,DIRECT
+DOMAIN-SUFFIX,bokecc.com,DIRECT
+DOMAIN-SUFFIX,chaipip.com,DIRECT
+DOMAIN-SUFFIX,chinaplay.store,DIRECT
+DOMAIN-SUFFIX,hrtsea.com,DIRECT
+DOMAIN-SUFFIX,kaikeba.com,DIRECT
+DOMAIN-SUFFIX,laomo.me,DIRECT
+DOMAIN-SUFFIX,mpyit.com,DIRECT
+DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+DOMAIN-SUFFIX,msftncsi.com,DIRECT
+DOMAIN-SUFFIX,qupu123.com,DIRECT
+DOMAIN-SUFFIX,pdfwifi.com,DIRECT
+DOMAIN-SUFFIX,zhenguanyu.biz,DIRECT
+DOMAIN-SUFFIX,zhenguanyu.com,DIRECT
+DOMAIN-SUFFIX,snapdrop.net,DIRECT
+DOMAIN-SUFFIX,tebex.io,DIRECT
+DOMAIN-SUFFIX,cn,DIRECT
+DOMAIN-SUFFIX,xn--fiqs8s,DIRECT
+DOMAIN-SUFFIX,xn--55qx5d,DIRECT
+DOMAIN-SUFFIX,xn--io0a7i,DIRECT
+DOMAIN-KEYWORD,360buy,DIRECT
+DOMAIN-KEYWORD,alicdn,DIRECT
+DOMAIN-KEYWORD,alimama,DIRECT
+DOMAIN-KEYWORD,alipay,DIRECT
+DOMAIN-KEYWORD,appzapp,DIRECT
+DOMAIN-KEYWORD,baidupcs,DIRECT
+DOMAIN-KEYWORD,ccgslb,DIRECT
+DOMAIN-KEYWORD,chinacache,DIRECT
+DOMAIN-KEYWORD,duobao,DIRECT
+DOMAIN-KEYWORD,jdpay,DIRECT
+DOMAIN-KEYWORD,moke,DIRECT
+DOMAIN-KEYWORD,qhimg,DIRECT
+DOMAIN-KEYWORD,vpimg,DIRECT
+DOMAIN-KEYWORD,xiami,DIRECT
+DOMAIN-KEYWORD,xiaomi,DIRECT
+DOMAIN-SUFFIX,360.com,DIRECT
+DOMAIN-SUFFIX,360kuai.com,DIRECT
+DOMAIN-SUFFIX,360safe.com,DIRECT
+DOMAIN-SUFFIX,dhrest.com,DIRECT
+DOMAIN-SUFFIX,qhres.com,DIRECT
+DOMAIN-SUFFIX,qhstatic.com,DIRECT
+DOMAIN-SUFFIX,qhupdate.com,DIRECT
+DOMAIN-SUFFIX,so.com,DIRECT
+DOMAIN-SUFFIX,4399.com,DIRECT
+DOMAIN-SUFFIX,4399pk.com,DIRECT
+DOMAIN-SUFFIX,5054399.com,DIRECT
+DOMAIN-SUFFIX,img4399.com,DIRECT
+DOMAIN-SUFFIX,58.com,DIRECT
+DOMAIN-SUFFIX,1688.com,DIRECT
+DOMAIN-SUFFIX,aliapp.org,DIRECT
+DOMAIN-SUFFIX,alibaba.com,DIRECT
+DOMAIN-SUFFIX,alibabacloud.com,DIRECT
+DOMAIN-SUFFIX,alibabausercontent.com,DIRECT
+DOMAIN-SUFFIX,alicdn.com,DIRECT
+DOMAIN-SUFFIX,alicloudccp.com,DIRECT
+DOMAIN-SUFFIX,aliexpress.com,DIRECT
+DOMAIN-SUFFIX,aliimg.com,DIRECT
+DOMAIN-SUFFIX,alikunlun.com,DIRECT
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+DOMAIN-SUFFIX,alisoft.com,DIRECT
+DOMAIN-SUFFIX,aliyun.com,DIRECT
+DOMAIN-SUFFIX,aliyuncdn.com,DIRECT
+DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+DOMAIN-SUFFIX,aliyundrive.com,DIRECT
+DOMAIN-SUFFIX,aliyundrive.net,DIRECT
+DOMAIN-SUFFIX,amap.com,DIRECT
+DOMAIN-SUFFIX,autonavi.com,DIRECT
+DOMAIN-SUFFIX,dingtalk.com,DIRECT
+DOMAIN-SUFFIX,ele.me,DIRECT
+DOMAIN-SUFFIX,hichina.com,DIRECT
+DOMAIN-SUFFIX,mmstat.com,DIRECT
+DOMAIN-SUFFIX,mxhichina.com,DIRECT
+DOMAIN-SUFFIX,soku.com,DIRECT
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,taobaocdn.com,DIRECT
+DOMAIN-SUFFIX,tbcache.com,DIRECT
+DOMAIN-SUFFIX,tbcdn.com,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
+DOMAIN-SUFFIX,tmall.hk,DIRECT
+DOMAIN-SUFFIX,ucweb.com,DIRECT
+DOMAIN-SUFFIX,xiami.com,DIRECT
+DOMAIN-SUFFIX,xiami.net,DIRECT
+DOMAIN-SUFFIX,ykimg.com,DIRECT
+DOMAIN-SUFFIX,youku.com,DIRECT
+DOMAIN-SUFFIX,baidu.com,DIRECT
+DOMAIN-SUFFIX,baidubcr.com,DIRECT
+DOMAIN-SUFFIX,baidupcs.com,DIRECT
+DOMAIN-SUFFIX,baidustatic.com,DIRECT
+DOMAIN-SUFFIX,bcebos.com,DIRECT
+DOMAIN-SUFFIX,bdimg.com,DIRECT
+DOMAIN-SUFFIX,bdstatic.com,DIRECT
+DOMAIN-SUFFIX,bdurl.net,DIRECT
+DOMAIN-SUFFIX,hao123.com,DIRECT
+DOMAIN-SUFFIX,hao123img.com,DIRECT
+DOMAIN-SUFFIX,jomodns.com,DIRECT
+DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
+DOMAIN-SUFFIX,acg.tv,DIRECT
+DOMAIN-SUFFIX,acgvideo.com,DIRECT
+DOMAIN-SUFFIX,b23.tv,DIRECT
+DOMAIN-SUFFIX,bigfun.cn,DIRECT
+DOMAIN-SUFFIX,bigfunapp.cn,DIRECT
+DOMAIN-SUFFIX,hdslb.com,DIRECT
+DOMAIN-SUFFIX,im9.com,DIRECT
+DOMAIN-SUFFIX,smtcdns.net,DIRECT
+DOMAIN-SUFFIX,amemv.com,DIRECT
+DOMAIN-SUFFIX,bdxiguaimg.com,DIRECT
+DOMAIN-SUFFIX,bdxiguastatic.com,DIRECT
+DOMAIN-SUFFIX,byted-static.com,DIRECT
+DOMAIN-SUFFIX,bytedance.com,DIRECT
+DOMAIN-SUFFIX,bytedance.net,DIRECT
+DOMAIN-SUFFIX,bytedns.net,DIRECT
+DOMAIN-SUFFIX,bytednsdoc.com,DIRECT
+DOMAIN-SUFFIX,bytegoofy.com,DIRECT
+DOMAIN-SUFFIX,byteimg.com,DIRECT
+DOMAIN-SUFFIX,bytescm.com,DIRECT
+DOMAIN-SUFFIX,bytetos.com,DIRECT
+DOMAIN-SUFFIX,bytexservice.com,DIRECT
+DOMAIN-SUFFIX,douyin.com,DIRECT
+DOMAIN-SUFFIX,douyincdn.com,DIRECT
+DOMAIN-SUFFIX,douyinpic.com,DIRECT
+DOMAIN-SUFFIX,douyinstatic.com,DIRECT
+DOMAIN-SUFFIX,douyinvod.com,DIRECT
+DOMAIN-SUFFIX,feelgood.cn,DIRECT
+DOMAIN-SUFFIX,feiliao.com,DIRECT
+DOMAIN-SUFFIX,gifshow.com,DIRECT
+DOMAIN-SUFFIX,huoshan.com,DIRECT
+DOMAIN-SUFFIX,huoshanzhibo.com,DIRECT
+DOMAIN-SUFFIX,ibytedapm.com,DIRECT
+DOMAIN-SUFFIX,iesdouyin.com,DIRECT
+DOMAIN-SUFFIX,ixigua.com,DIRECT
+DOMAIN-SUFFIX,kspkg.com,DIRECT
+DOMAIN-SUFFIX,pstatp.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,toutiao.com,DIRECT
+DOMAIN-SUFFIX,toutiao13.com,DIRECT
+DOMAIN-SUFFIX,toutiaoapi.com,DIRECT
+DOMAIN-SUFFIX,toutiaocdn.com,DIRECT
+DOMAIN-SUFFIX,toutiaocdn.net,DIRECT
+DOMAIN-SUFFIX,toutiaocloud.com,DIRECT
+DOMAIN-SUFFIX,toutiaohao.com,DIRECT
+DOMAIN-SUFFIX,toutiaohao.net,DIRECT
+DOMAIN-SUFFIX,toutiaoimg.com,DIRECT
+DOMAIN-SUFFIX,toutiaopage.com,DIRECT
+DOMAIN-SUFFIX,wukong.com,DIRECT
+DOMAIN-SUFFIX,zijieapi.com,DIRECT
+DOMAIN-SUFFIX,zijieimg.com,DIRECT
+DOMAIN-SUFFIX,zjbyte.com,DIRECT
+DOMAIN-SUFFIX,zjcdn.com,DIRECT
+DOMAIN-SUFFIX,cctv.com,DIRECT
+DOMAIN-SUFFIX,cctvpic.com,DIRECT
+DOMAIN-SUFFIX,livechina.com,DIRECT
+DOMAIN-SUFFIX,21cn.com,DIRECT
+DOMAIN-SUFFIX,didialift.com,DIRECT
+DOMAIN-SUFFIX,didiglobal.com,DIRECT
+DOMAIN-SUFFIX,udache.com,DIRECT
+DOMAIN-SUFFIX,douyu.com,DIRECT
+DOMAIN-SUFFIX,douyu.tv,DIRECT
+DOMAIN-SUFFIX,douyuscdn.com,DIRECT
+DOMAIN-SUFFIX,douyutv.com,DIRECT
+DOMAIN-SUFFIX,epicgames.com,DIRECT
+DOMAIN-SUFFIX,epicgames.dev,DIRECT
+DOMAIN-SUFFIX,helpshift.com,DIRECT
+DOMAIN-SUFFIX,paragon.com,DIRECT
+DOMAIN-SUFFIX,unrealengine.com,DIRECT
+DOMAIN-SUFFIX,dbankcdn.com,DIRECT
+DOMAIN-SUFFIX,hc-cdn.com,DIRECT
+DOMAIN-SUFFIX,hicloud.com,DIRECT
+DOMAIN-SUFFIX,hihonor.com,DIRECT
+DOMAIN-SUFFIX,huawei.com,DIRECT
+DOMAIN-SUFFIX,huaweicloud.com,DIRECT
+DOMAIN-SUFFIX,huaweishop.net,DIRECT
+DOMAIN-SUFFIX,hwccpc.com,DIRECT
+DOMAIN-SUFFIX,vmall.com,DIRECT
+DOMAIN-SUFFIX,vmallres.com,DIRECT
+DOMAIN-SUFFIX,allawnfs.com,DIRECT
+DOMAIN-SUFFIX,allawno.com,DIRECT
+DOMAIN-SUFFIX,allawntech.com,DIRECT
+DOMAIN-SUFFIX,coloros.com,DIRECT
+DOMAIN-SUFFIX,heytap.com,DIRECT
+DOMAIN-SUFFIX,heytapcs.com,DIRECT
+DOMAIN-SUFFIX,heytapdownload.com,DIRECT
+DOMAIN-SUFFIX,heytapimage.com,DIRECT
+DOMAIN-SUFFIX,heytapmobi.com,DIRECT
+DOMAIN-SUFFIX,oppo.com,DIRECT
+DOMAIN-SUFFIX,oppoer.me,DIRECT
+DOMAIN-SUFFIX,oppomobile.com,DIRECT
+DOMAIN-SUFFIX,iflyink.com,DIRECT
+DOMAIN-SUFFIX,iflyrec.com,DIRECT
+DOMAIN-SUFFIX,iflytek.com,DIRECT
+DOMAIN-SUFFIX,71.am,DIRECT
+DOMAIN-SUFFIX,71edge.com,DIRECT
+DOMAIN-SUFFIX,iqiyi.com,DIRECT
+DOMAIN-SUFFIX,iqiyipic.com,DIRECT
+DOMAIN-SUFFIX,ppsimg.com,DIRECT
+DOMAIN-SUFFIX,qiyi.com,DIRECT
+DOMAIN-SUFFIX,qiyipic.com,DIRECT
+DOMAIN-SUFFIX,qy.net,DIRECT
+DOMAIN-SUFFIX,360buy.com,DIRECT
+DOMAIN-SUFFIX,360buyimg.com,DIRECT
+DOMAIN-SUFFIX,jcloudcs.com,DIRECT
+DOMAIN-SUFFIX,jd.com,DIRECT
+DOMAIN-SUFFIX,jd.hk,DIRECT
+DOMAIN-SUFFIX,jdcloud.com,DIRECT
+DOMAIN-SUFFIX,jdpay.com,DIRECT
+DOMAIN-SUFFIX,paipai.com,DIRECT
+DOMAIN-SUFFIX,iciba.com,DIRECT
+DOMAIN-SUFFIX,ksosoft.com,DIRECT
+DOMAIN-SUFFIX,ksyun.com,DIRECT
+DOMAIN-SUFFIX,kuaishou.com,DIRECT
+DOMAIN-SUFFIX,yximgs.com,DIRECT
+DOMAIN-SUFFIX,meitu.com,DIRECT
+DOMAIN-SUFFIX,meitudata.com,DIRECT
+DOMAIN-SUFFIX,meitustat.com,DIRECT
+DOMAIN-SUFFIX,meipai.com,DIRECT
+DOMAIN-SUFFIX,le.com,DIRECT
+DOMAIN-SUFFIX,lecloud.com,DIRECT
+DOMAIN-SUFFIX,letv.com,DIRECT
+DOMAIN-SUFFIX,letvcloud.com,DIRECT
+DOMAIN-SUFFIX,letvimg.com,DIRECT
+DOMAIN-SUFFIX,letvlive.com,DIRECT
+DOMAIN-SUFFIX,letvstore.com,DIRECT
+DOMAIN-SUFFIX,hitv.com,DIRECT
+DOMAIN-SUFFIX,hunantv.com,DIRECT
+DOMAIN-SUFFIX,mgtv.com,DIRECT
+DOMAIN-SUFFIX,duokan.com,DIRECT
+DOMAIN-SUFFIX,mi-img.com,DIRECT
+DOMAIN-SUFFIX,mi.com,DIRECT
+DOMAIN-SUFFIX,miui.com,DIRECT
+DOMAIN-SUFFIX,xiaomi.com,DIRECT
+DOMAIN-SUFFIX,xiaomi.net,DIRECT
+DOMAIN-SUFFIX,xiaomicp.com,DIRECT
+DOMAIN-SUFFIX,126.com,DIRECT
+DOMAIN-SUFFIX,126.net,DIRECT
+DOMAIN-SUFFIX,127.net,DIRECT
+DOMAIN-SUFFIX,163.com,DIRECT
+DOMAIN-SUFFIX,163yun.com,DIRECT
+DOMAIN-SUFFIX,lofter.com,DIRECT
+DOMAIN-SUFFIX,netease.com,DIRECT
+DOMAIN-SUFFIX,ydstatic.com,DIRECT
+DOMAIN-SUFFIX,youdao.com,DIRECT
+DOMAIN-SUFFIX,pplive.com,DIRECT
+DOMAIN-SUFFIX,pptv.com,DIRECT
+DOMAIN-SUFFIX,pinduoduo.com,DIRECT
+DOMAIN-SUFFIX,yangkeduo.com,DIRECT
+DOMAIN-SUFFIX,leju.com,DIRECT
+DOMAIN-SUFFIX,miaopai.com,DIRECT
+DOMAIN-SUFFIX,sina.com,DIRECT
+DOMAIN-SUFFIX,sina.com.cn,DIRECT
+DOMAIN-SUFFIX,sina.cn,DIRECT
+DOMAIN-SUFFIX,sinaapp.com,DIRECT
+DOMAIN-SUFFIX,sinaapp.cn,DIRECT
+DOMAIN-SUFFIX,sinaimg.com,DIRECT
+DOMAIN-SUFFIX,sinaimg.cn,DIRECT
+DOMAIN-SUFFIX,weibo.com,DIRECT
+DOMAIN-SUFFIX,weibo.cn,DIRECT
+DOMAIN-SUFFIX,weibocdn.com,DIRECT
+DOMAIN-SUFFIX,weibocdn.cn,DIRECT
+DOMAIN-SUFFIX,xiaoka.tv,DIRECT
+DOMAIN-SUFFIX,go2map.com,DIRECT
+DOMAIN-SUFFIX,sogo.com,DIRECT
+DOMAIN-SUFFIX,sogou.com,DIRECT
+DOMAIN-SUFFIX,sogoucdn.com,DIRECT
+DOMAIN-SUFFIX,sohu-inc.com,DIRECT
+DOMAIN-SUFFIX,sohu.com,DIRECT
+DOMAIN-SUFFIX,sohucs.com,DIRECT
+DOMAIN-SUFFIX,sohuno.com,DIRECT
+DOMAIN-SUFFIX,sohurdc.com,DIRECT
+DOMAIN-SUFFIX,v-56.com,DIRECT
+DOMAIN-SUFFIX,playstation.com,DIRECT
+DOMAIN-SUFFIX,playstation.net,DIRECT
+DOMAIN-SUFFIX,playstationnetwork.com,DIRECT
+DOMAIN-SUFFIX,sony.com,DIRECT
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,DIRECT
+DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+DOMAIN-SUFFIX,steamchina.com,DIRECT
+DOMAIN,csgo.wmsj.cn,DIRECT
+DOMAIN,dota2.wmsj.cn,DIRECT
+DOMAIN,wmsjsteam.com,DIRECT
+DOMAIN,dl.steam.clngaa.com,DIRECT
+DOMAIN,dl.steam.ksyna.com,DIRECT
+DOMAIN,st.dl.bscstorage.net,DIRECT
+DOMAIN,st.dl.eccdnx.com,DIRECT
+DOMAIN,st.dl.pinyuncloud.com,DIRECT
+DOMAIN,xz.pphimalayanrt.com,DIRECT
+DOMAIN,steampipe.steamcontent.tnkjmec.com,DIRECT
+DOMAIN,steampowered.com.8686c.com,DIRECT
+DOMAIN,steamstatic.com.8686c.com,DIRECT
+DOMAIN-SUFFIX,foxmail.com,DIRECT
+DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-SUFFIX,idqqimg.com,DIRECT
+DOMAIN-SUFFIX,igamecj.com,DIRECT
+DOMAIN-SUFFIX,myapp.com,DIRECT
+DOMAIN-SUFFIX,myqcloud.com,DIRECT
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,qqmail.com,DIRECT
+DOMAIN-SUFFIX,qqurl.com,DIRECT
+DOMAIN-SUFFIX,smtcdns.com,DIRECT
+DOMAIN-SUFFIX,smtcdns.net,DIRECT
+DOMAIN-SUFFIX,soso.com,DIRECT
+DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
+DOMAIN-SUFFIX,tencent.com,DIRECT
+DOMAIN-SUFFIX,tencentmind.com,DIRECT
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,weixin.com,DIRECT
+DOMAIN-SUFFIX,weiyun.com,DIRECT
+DOMAIN-SUFFIX,appsimg.com,DIRECT
+DOMAIN-SUFFIX,appvipshop.com,DIRECT
+DOMAIN-SUFFIX,vip.com,DIRECT
+DOMAIN-SUFFIX,vipstatic.com,DIRECT
+DOMAIN-SUFFIX,ximalaya.com,DIRECT
+DOMAIN-SUFFIX,xmcdn.com,DIRECT
+DOMAIN-SUFFIX,00cdn.com,DIRECT
+DOMAIN-SUFFIX,88cdn.com,DIRECT
+DOMAIN-SUFFIX,kanimg.com,DIRECT
+DOMAIN-SUFFIX,kankan.com,DIRECT
+DOMAIN-SUFFIX,p2cdn.com,DIRECT
+DOMAIN-SUFFIX,sandai.net,DIRECT
+DOMAIN-SUFFIX,thundercdn.com,DIRECT
+DOMAIN-SUFFIX,xunlei.com,DIRECT
+DOMAIN-SUFFIX,got001.com,DIRECT
+DOMAIN-SUFFIX,p4pfile.com,DIRECT
+DOMAIN-SUFFIX,rrys.tv,DIRECT
+DOMAIN-SUFFIX,rrys2020.com,DIRECT
+DOMAIN-SUFFIX,yyets.com,DIRECT
+DOMAIN-SUFFIX,zimuzu.io,DIRECT
+DOMAIN-SUFFIX,zimuzu.tv,DIRECT
+DOMAIN-SUFFIX,zmz001.com,DIRECT
+DOMAIN-SUFFIX,zmz002.com,DIRECT
+DOMAIN-SUFFIX,zmz003.com,DIRECT
+DOMAIN-SUFFIX,zmz004.com,DIRECT
+DOMAIN-SUFFIX,zmz2019.com,DIRECT
+DOMAIN-SUFFIX,zmzapi.com,DIRECT
+DOMAIN-SUFFIX,zmzapi.net,DIRECT
+DOMAIN-SUFFIX,zmzfile.com,DIRECT
+DOMAIN-SUFFIX,teamviewer.com,DIRECT
+IP-CIDR,139.220.243.27/32,DIRECT,no-resolve
+IP-CIDR,172.16.102.56/32,DIRECT,no-resolve
+IP-CIDR,185.188.32.1/28,DIRECT,no-resolve
+IP-CIDR,221.226.128.146/32,DIRECT,no-resolve
+IP6-CIDR,2a0b:b580::/48,DIRECT,no-resolve
+IP6-CIDR,2a0b:b581::/48,DIRECT,no-resolve
+IP6-CIDR,2a0b:b582::/48,DIRECT,no-resolve
+IP6-CIDR,2a0b:b583::/48,DIRECT,no-resolve
+DOMAIN-SUFFIX,baomitu.com,DIRECT
+DOMAIN-SUFFIX,bootcss.com,DIRECT
+DOMAIN-SUFFIX,jiasule.com,DIRECT
+DOMAIN-SUFFIX,staticfile.org,DIRECT
+DOMAIN-SUFFIX,upaiyun.com,DIRECT
+DOMAIN-SUFFIX,doh.pub,DIRECT
+DOMAIN-SUFFIX,dns.alidns.com,DIRECT
+DOMAIN-SUFFIX,doh.360.cn,DIRECT
+IP-CIDR,1.12.12.12/32,DIRECT,no-resolve
+DOMAIN-SUFFIX,10010.com,DIRECT
+DOMAIN-SUFFIX,115.com,DIRECT
+DOMAIN-SUFFIX,12306.com,DIRECT
+DOMAIN-SUFFIX,17173.com,DIRECT
+DOMAIN-SUFFIX,178.com,DIRECT
+DOMAIN-SUFFIX,17k.com,DIRECT
+DOMAIN-SUFFIX,360doc.com,DIRECT
+DOMAIN-SUFFIX,36kr.com,DIRECT
+DOMAIN-SUFFIX,3dmgame.com,DIRECT
+DOMAIN-SUFFIX,51cto.com,DIRECT
+DOMAIN-SUFFIX,51job.com,DIRECT
+DOMAIN-SUFFIX,51jobcdn.com,DIRECT
+DOMAIN-SUFFIX,56.com,DIRECT
+DOMAIN-SUFFIX,8686c.com,DIRECT
+DOMAIN-SUFFIX,abchina.com,DIRECT
+DOMAIN-SUFFIX,abercrombie.com,DIRECT
+DOMAIN-SUFFIX,acfun.tv,DIRECT
+DOMAIN-SUFFIX,air-matters.com,DIRECT
+DOMAIN-SUFFIX,air-matters.io,DIRECT
+DOMAIN-SUFFIX,aixifan.com,DIRECT
+DOMAIN-SUFFIX,algocasts.io,DIRECT
+DOMAIN-SUFFIX,babytree.com,DIRECT
+DOMAIN-SUFFIX,babytreeimg.com,DIRECT
+DOMAIN-SUFFIX,baicizhan.com,DIRECT
+DOMAIN-SUFFIX,baidupan.com,DIRECT
+DOMAIN-SUFFIX,baike.com,DIRECT
+DOMAIN-SUFFIX,biqudu.com,DIRECT
+DOMAIN-SUFFIX,biquge.com,DIRECT
+DOMAIN-SUFFIX,bitauto.com,DIRECT
+DOMAIN-SUFFIX,bosszhipin.com,DIRECT
+DOMAIN-SUFFIX,c-ctrip.com,DIRECT
+DOMAIN-SUFFIX,camera360.com,DIRECT
+DOMAIN-SUFFIX,cdnmama.com,DIRECT
+DOMAIN-SUFFIX,chaoxing.com,DIRECT
+DOMAIN-SUFFIX,che168.com,DIRECT
+DOMAIN-SUFFIX,chinacache.net,DIRECT
+DOMAIN-SUFFIX,chinaso.com,DIRECT
+DOMAIN-SUFFIX,chinaz.com,DIRECT
+DOMAIN-SUFFIX,chinaz.net,DIRECT
+DOMAIN-SUFFIX,chuimg.com,DIRECT
+DOMAIN-SUFFIX,cibntv.net,DIRECT
+DOMAIN-SUFFIX,clouddn.com,DIRECT
+DOMAIN-SUFFIX,cloudxns.net,DIRECT
+DOMAIN-SUFFIX,cn163.net,DIRECT
+DOMAIN-SUFFIX,cnblogs.com,DIRECT
+DOMAIN-SUFFIX,cnki.net,DIRECT
+DOMAIN-SUFFIX,cnmstl.net,DIRECT
+DOMAIN-SUFFIX,coolapk.com,DIRECT
+DOMAIN-SUFFIX,coolapkmarket.com,DIRECT
+DOMAIN-SUFFIX,csdn.net,DIRECT
+DOMAIN-SUFFIX,ctrip.com,DIRECT
+DOMAIN-SUFFIX,dangdang.com,DIRECT
+DOMAIN-SUFFIX,dfcfw.com,DIRECT
+DOMAIN-SUFFIX,dianping.com,DIRECT
+DOMAIN-SUFFIX,dilidili.wang,DIRECT
+DOMAIN-SUFFIX,douban.com,DIRECT
+DOMAIN-SUFFIX,doubanio.com,DIRECT
+DOMAIN-SUFFIX,dpfile.com,DIRECT
+DOMAIN-SUFFIX,duowan.com,DIRECT
+DOMAIN-SUFFIX,dxycdn.com,DIRECT
+DOMAIN-SUFFIX,dytt8.net,DIRECT
+DOMAIN-SUFFIX,easou.com,DIRECT
+DOMAIN-SUFFIX,eastday.com,DIRECT
+DOMAIN-SUFFIX,eastmoney.com,DIRECT
+DOMAIN-SUFFIX,ecitic.com,DIRECT
+DOMAIN-SUFFIX,element-plus.org,DIRECT
+DOMAIN-SUFFIX,ewqcxz.com,DIRECT
+DOMAIN-SUFFIX,fang.com,DIRECT
+DOMAIN-SUFFIX,fantasy.tv,DIRECT
+DOMAIN-SUFFIX,feng.com,DIRECT
+DOMAIN-SUFFIX,fengkongcloud.com,DIRECT
+DOMAIN-SUFFIX,fir.im,DIRECT
+DOMAIN-SUFFIX,frdic.com,DIRECT
+DOMAIN-SUFFIX,fresh-ideas.cc,DIRECT
+DOMAIN-SUFFIX,ganji.com,DIRECT
+DOMAIN-SUFFIX,ganjistatic1.com,DIRECT
+DOMAIN-SUFFIX,geetest.com,DIRECT
+DOMAIN-SUFFIX,geilicdn.com,DIRECT
+DOMAIN-SUFFIX,ghpym.com,DIRECT
+DOMAIN-SUFFIX,godic.net,DIRECT
+DOMAIN-SUFFIX,guazi.com,DIRECT
+DOMAIN-SUFFIX,gwdang.com,DIRECT
+DOMAIN-SUFFIX,gzlzfm.com,DIRECT
+DOMAIN-SUFFIX,haibian.com,DIRECT
+DOMAIN-SUFFIX,haosou.com,DIRECT
+DOMAIN-SUFFIX,hollisterco.com,DIRECT
+DOMAIN-SUFFIX,hongxiu.com,DIRECT
+DOMAIN-SUFFIX,huajiao.com,DIRECT
+DOMAIN-SUFFIX,hupu.com,DIRECT
+DOMAIN-SUFFIX,huxiucdn.com,DIRECT
+DOMAIN-SUFFIX,huya.com,DIRECT
+DOMAIN-SUFFIX,ifeng.com,DIRECT
+DOMAIN-SUFFIX,ifengimg.com,DIRECT
+DOMAIN-SUFFIX,images-amazon.com,DIRECT
+DOMAIN-SUFFIX,infzm.com,DIRECT
+DOMAIN-SUFFIX,ipip.net,DIRECT
+DOMAIN-SUFFIX,it168.com,DIRECT
+DOMAIN-SUFFIX,ithome.com,DIRECT
+DOMAIN-SUFFIX,ixdzs.com,DIRECT
+DOMAIN-SUFFIX,jianguoyun.com,DIRECT
+DOMAIN-SUFFIX,jianshu.com,DIRECT
+DOMAIN-SUFFIX,jianshu.io,DIRECT
+DOMAIN-SUFFIX,jianshuapi.com,DIRECT
+DOMAIN-SUFFIX,jiathis.com,DIRECT
+DOMAIN-SUFFIX,jmstatic.com,DIRECT
+DOMAIN-SUFFIX,jumei.com,DIRECT
+DOMAIN-SUFFIX,kaola.com,DIRECT
+DOMAIN-SUFFIX,knewone.com,DIRECT
+DOMAIN-SUFFIX,koowo.com,DIRECT
+DOMAIN-SUFFIX,ksyungslb.com,DIRECT
+DOMAIN-SUFFIX,kuaidi100.com,DIRECT
+DOMAIN-SUFFIX,kugou.com,DIRECT
+DOMAIN-SUFFIX,lancdns.com,DIRECT
+DOMAIN-SUFFIX,landiannews.com,DIRECT
+DOMAIN-SUFFIX,lanzou.com,DIRECT
+DOMAIN-SUFFIX,lanzoui.com,DIRECT
+DOMAIN-SUFFIX,lanzoux.com,DIRECT
+DOMAIN-SUFFIX,lemicp.com,DIRECT
+DOMAIN-SUFFIX,letitfly.me,DIRECT
+DOMAIN-SUFFIX,lizhi.fm,DIRECT
+DOMAIN-SUFFIX,lizhi.io,DIRECT
+DOMAIN-SUFFIX,lizhifm.com,DIRECT
+DOMAIN-SUFFIX,luoo.net,DIRECT
+DOMAIN-SUFFIX,lvmama.com,DIRECT
+DOMAIN-SUFFIX,lxdns.com,DIRECT
+DOMAIN-SUFFIX,maoyan.com,DIRECT
+DOMAIN-SUFFIX,meilishuo.com,DIRECT
+DOMAIN-SUFFIX,meituan.com,DIRECT
+DOMAIN-SUFFIX,meituan.net,DIRECT
+DOMAIN-SUFFIX,meizu.com,DIRECT
+DOMAIN-SUFFIX,migucloud.com,DIRECT
+DOMAIN-SUFFIX,miguvideo.com,DIRECT
+DOMAIN-SUFFIX,mobike.com,DIRECT
+DOMAIN-SUFFIX,mogu.com,DIRECT
+DOMAIN-SUFFIX,mogucdn.com,DIRECT
+DOMAIN-SUFFIX,mogujie.com,DIRECT
+DOMAIN-SUFFIX,moji.com,DIRECT
+DOMAIN-SUFFIX,moke.com,DIRECT
+DOMAIN-SUFFIX,msstatic.com,DIRECT
+DOMAIN-SUFFIX,mubu.com,DIRECT
+DOMAIN-SUFFIX,myunlu.com,DIRECT
+DOMAIN-SUFFIX,nruan.com,DIRECT
+DOMAIN-SUFFIX,nuomi.com,DIRECT
+DOMAIN-SUFFIX,onedns.net,DIRECT
+DOMAIN-SUFFIX,oneplus.com,DIRECT
+DOMAIN-SUFFIX,onlinedown.net,DIRECT
+DOMAIN-SUFFIX,oracle.com,DIRECT
+DOMAIN-SUFFIX,oschina.net,DIRECT
+DOMAIN-SUFFIX,ourdvs.com,DIRECT
+DOMAIN-SUFFIX,polyv.net,DIRECT
+DOMAIN-SUFFIX,qbox.me,DIRECT
+DOMAIN-SUFFIX,qcloud.com,DIRECT
+DOMAIN-SUFFIX,qcloudcdn.com,DIRECT
+DOMAIN-SUFFIX,qdaily.com,DIRECT
+DOMAIN-SUFFIX,qdmm.com,DIRECT
+DOMAIN-SUFFIX,qhimg.com,DIRECT
+DOMAIN-SUFFIX,qianqian.com,DIRECT
+DOMAIN-SUFFIX,qidian.com,DIRECT
+DOMAIN-SUFFIX,qihucdn.com,DIRECT
+DOMAIN-SUFFIX,qin.io,DIRECT
+DOMAIN-SUFFIX,qiniu.com,DIRECT
+DOMAIN-SUFFIX,qiniucdn.com,DIRECT
+DOMAIN-SUFFIX,qiniudn.com,DIRECT
+DOMAIN-SUFFIX,qiushibaike.com,DIRECT
+DOMAIN-SUFFIX,quanmin.tv,DIRECT
+DOMAIN-SUFFIX,qunar.com,DIRECT
+DOMAIN-SUFFIX,qunarzz.com,DIRECT
+DOMAIN-SUFFIX,realme.com,DIRECT
+DOMAIN-SUFFIX,repaik.com,DIRECT
+DOMAIN-SUFFIX,ruguoapp.com,DIRECT
+DOMAIN-SUFFIX,runoob.com,DIRECT
+DOMAIN-SUFFIX,sankuai.com,DIRECT
+DOMAIN-SUFFIX,segmentfault.com,DIRECT
+DOMAIN-SUFFIX,sf-express.com,DIRECT
+DOMAIN-SUFFIX,shumilou.net,DIRECT
+DOMAIN-SUFFIX,simplecd.me,DIRECT
+DOMAIN-SUFFIX,smzdm.com,DIRECT
+DOMAIN-SUFFIX,snwx.com,DIRECT
+DOMAIN-SUFFIX,soufunimg.com,DIRECT
+DOMAIN-SUFFIX,sspai.com,DIRECT
+DOMAIN-SUFFIX,startssl.com,DIRECT
+DOMAIN-SUFFIX,suning.com,DIRECT
+DOMAIN-SUFFIX,synology.com,DIRECT
+DOMAIN-SUFFIX,taihe.com,DIRECT
+DOMAIN-SUFFIX,th-sjy.com,DIRECT
+DOMAIN-SUFFIX,tianqi.com,DIRECT
+DOMAIN-SUFFIX,tianqistatic.com,DIRECT
+DOMAIN-SUFFIX,tianyancha.com,DIRECT
+DOMAIN-SUFFIX,tianyaui.com,DIRECT
+DOMAIN-SUFFIX,tietuku.com,DIRECT
+DOMAIN-SUFFIX,tiexue.net,DIRECT
+DOMAIN-SUFFIX,tmiaoo.com,DIRECT
+DOMAIN-SUFFIX,trip.com,DIRECT
+DOMAIN-SUFFIX,ttmeiju.com,DIRECT
+DOMAIN-SUFFIX,tudou.com,DIRECT
+DOMAIN-SUFFIX,tuniu.com,DIRECT
+DOMAIN-SUFFIX,tuniucdn.com,DIRECT
+DOMAIN-SUFFIX,umengcloud.com,DIRECT
+DOMAIN-SUFFIX,upyun.com,DIRECT
+DOMAIN-SUFFIX,uxengine.net,DIRECT
+DOMAIN-SUFFIX,videocc.net,DIRECT
+DOMAIN-SUFFIX,vivo.com,DIRECT
+DOMAIN-SUFFIX,wandoujia.com,DIRECT
+DOMAIN-SUFFIX,weather.com,DIRECT
+DOMAIN-SUFFIX,weico.cc,DIRECT
+DOMAIN-SUFFIX,weidian.com,DIRECT
+DOMAIN-SUFFIX,weiphone.com,DIRECT
+DOMAIN-SUFFIX,weiphone.net,DIRECT
+DOMAIN-SUFFIX,womai.com,DIRECT
+DOMAIN-SUFFIX,wscdns.com,DIRECT
+DOMAIN-SUFFIX,xdrig.com,DIRECT
+DOMAIN-SUFFIX,xhscdn.com,DIRECT
+DOMAIN-SUFFIX,xiachufang.com,DIRECT
+DOMAIN-SUFFIX,xiaohongshu.com,DIRECT
+DOMAIN-SUFFIX,xiaojukeji.com,DIRECT
+DOMAIN-SUFFIX,xinhuanet.com,DIRECT
+DOMAIN-SUFFIX,xip.io,DIRECT
+DOMAIN-SUFFIX,xitek.com,DIRECT
+DOMAIN-SUFFIX,xiumi.us,DIRECT
+DOMAIN-SUFFIX,xslb.net,DIRECT
+DOMAIN-SUFFIX,xueqiu.com,DIRECT
+DOMAIN-SUFFIX,yach.me,DIRECT
+DOMAIN-SUFFIX,yeepay.com,DIRECT
+DOMAIN-SUFFIX,yhd.com,DIRECT
+DOMAIN-SUFFIX,yihaodianimg.com,DIRECT
+DOMAIN-SUFFIX,yinxiang.com,DIRECT
+DOMAIN-SUFFIX,yinyuetai.com,DIRECT
+DOMAIN-SUFFIX,yixia.com,DIRECT
+DOMAIN-SUFFIX,ys168.com,DIRECT
+DOMAIN-SUFFIX,yuewen.com,DIRECT
+DOMAIN-SUFFIX,yy.com,DIRECT
+DOMAIN-SUFFIX,yystatic.com,DIRECT
+DOMAIN-SUFFIX,zealer.com,DIRECT
+DOMAIN-SUFFIX,zhangzishi.cc,DIRECT
+DOMAIN-SUFFIX,zhanqi.tv,DIRECT
+DOMAIN-SUFFIX,zhaopin.com,DIRECT
+DOMAIN-SUFFIX,zhihu.com,DIRECT
+DOMAIN-SUFFIX,zhimg.com,DIRECT
+DOMAIN-SUFFIX,zhipin.com,DIRECT
+DOMAIN-SUFFIX,zhongsou.com,DIRECT
+DOMAIN-SUFFIX,zhuihd.com,DIRECT
+IP-CIDR,8.128.0.0/10,DIRECT,no-resolve
+IP-CIDR,8.208.0.0/12,DIRECT,no-resolve
+IP-CIDR,14.1.112.0/22,DIRECT,no-resolve
+IP-CIDR,41.222.240.0/22,DIRECT,no-resolve
+IP-CIDR,41.223.119.0/24,DIRECT,no-resolve
+IP-CIDR,43.242.168.0/22,DIRECT,no-resolve
+IP-CIDR,45.112.212.0/22,DIRECT,no-resolve
+IP-CIDR,47.52.0.0/16,DIRECT,no-resolve
+IP-CIDR,47.56.0.0/15,DIRECT,no-resolve
+IP-CIDR,47.74.0.0/15,DIRECT,no-resolve
+IP-CIDR,47.76.0.0/14,DIRECT,no-resolve
+IP-CIDR,47.80.0.0/12,DIRECT,no-resolve
+IP-CIDR,47.235.0.0/16,DIRECT,no-resolve
+IP-CIDR,47.236.0.0/14,DIRECT,no-resolve
+IP-CIDR,47.240.0.0/14,DIRECT,no-resolve
+IP-CIDR,47.244.0.0/15,DIRECT,no-resolve
+IP-CIDR,47.246.0.0/16,DIRECT,no-resolve
+IP-CIDR,47.250.0.0/15,DIRECT,no-resolve
+IP-CIDR,47.252.0.0/15,DIRECT,no-resolve
+IP-CIDR,47.254.0.0/16,DIRECT,no-resolve
+IP-CIDR,59.82.0.0/20,DIRECT,no-resolve
+IP-CIDR,59.82.240.0/21,DIRECT,no-resolve
+IP-CIDR,59.82.248.0/22,DIRECT,no-resolve
+IP-CIDR,72.254.0.0/16,DIRECT,no-resolve
+IP-CIDR,103.38.56.0/22,DIRECT,no-resolve
+IP-CIDR,103.52.76.0/22,DIRECT,no-resolve
+IP-CIDR,103.206.40.0/22,DIRECT,no-resolve
+IP-CIDR,110.76.21.0/24,DIRECT,no-resolve
+IP-CIDR,110.76.23.0/24,DIRECT,no-resolve
+IP-CIDR,112.125.0.0/17,DIRECT,no-resolve
+IP-CIDR,116.251.64.0/18,DIRECT,no-resolve
+IP-CIDR,119.38.208.0/20,DIRECT,no-resolve
+IP-CIDR,119.38.224.0/20,DIRECT,no-resolve
+IP-CIDR,119.42.224.0/20,DIRECT,no-resolve
+IP-CIDR,139.95.0.0/16,DIRECT,no-resolve
+IP-CIDR,140.205.1.0/24,DIRECT,no-resolve
+IP-CIDR,140.205.122.0/24,DIRECT,no-resolve
+IP-CIDR,147.139.0.0/16,DIRECT,no-resolve
+IP-CIDR,149.129.0.0/16,DIRECT,no-resolve
+IP-CIDR,155.102.0.0/16,DIRECT,no-resolve
+IP-CIDR,161.117.0.0/16,DIRECT,no-resolve
+IP-CIDR,163.181.0.0/16,DIRECT,no-resolve
+IP-CIDR,170.33.0.0/16,DIRECT,no-resolve
+IP-CIDR,198.11.128.0/18,DIRECT,no-resolve
+IP-CIDR,205.204.96.0/19,DIRECT,no-resolve
+IP-CIDR,19.28.0.0/23,DIRECT,no-resolve
+IP-CIDR,45.40.192.0/19,DIRECT,no-resolve
+IP-CIDR,49.51.0.0/16,DIRECT,no-resolve
+IP-CIDR,62.234.0.0/16,DIRECT,no-resolve
+IP-CIDR,94.191.0.0/17,DIRECT,no-resolve
+IP-CIDR,103.7.28.0/22,DIRECT,no-resolve
+IP-CIDR,103.116.50.0/23,DIRECT,no-resolve
+IP-CIDR,103.231.60.0/24,DIRECT,no-resolve
+IP-CIDR,109.244.0.0/16,DIRECT,no-resolve
+IP-CIDR,111.30.128.0/21,DIRECT,no-resolve
+IP-CIDR,111.30.136.0/24,DIRECT,no-resolve
+IP-CIDR,111.30.139.0/24,DIRECT,no-resolve
+IP-CIDR,111.30.140.0/23,DIRECT,no-resolve
+IP-CIDR,115.159.0.0/16,DIRECT,no-resolve
+IP-CIDR,119.28.0.0/15,DIRECT,no-resolve
+IP-CIDR,120.88.56.0/23,DIRECT,no-resolve
+IP-CIDR,121.51.0.0/16,DIRECT,no-resolve
+IP-CIDR,129.28.0.0/16,DIRECT,no-resolve
+IP-CIDR,129.204.0.0/16,DIRECT,no-resolve
+IP-CIDR,129.211.0.0/16,DIRECT,no-resolve
+IP-CIDR,132.232.0.0/16,DIRECT,no-resolve
+IP-CIDR,134.175.0.0/16,DIRECT,no-resolve
+IP-CIDR,146.56.192.0/18,DIRECT,no-resolve
+IP-CIDR,148.70.0.0/16,DIRECT,no-resolve
+IP-CIDR,150.109.0.0/16,DIRECT,no-resolve
+IP-CIDR,152.136.0.0/16,DIRECT,no-resolve
+IP-CIDR,162.14.0.0/16,DIRECT,no-resolve
+IP-CIDR,162.62.0.0/16,DIRECT,no-resolve
+IP-CIDR,170.106.130.0/24,DIRECT,no-resolve
+IP-CIDR,182.254.0.0/16,DIRECT,no-resolve
+IP-CIDR,188.131.128.0/17,DIRECT,no-resolve
+IP-CIDR,203.195.128.0/17,DIRECT,no-resolve
+IP-CIDR,203.205.128.0/17,DIRECT,no-resolve
+IP-CIDR,210.4.138.0/24,DIRECT,no-resolve
+IP-CIDR,211.152.128.0/23,DIRECT,no-resolve
+IP-CIDR,211.152.132.0/23,DIRECT,no-resolve
+IP-CIDR,211.152.148.0/23,DIRECT,no-resolve
+IP-CIDR,212.64.0.0/17,DIRECT,no-resolve
+IP-CIDR,212.129.128.0/17,DIRECT,no-resolve
+IP-CIDR,45.113.192.0/22,DIRECT,no-resolve
+IP-CIDR,63.217.23.0/24,DIRECT,no-resolve
+IP-CIDR,63.243.252.0/24,DIRECT,no-resolve
+IP-CIDR,103.235.44.0/22,DIRECT,no-resolve
+IP-CIDR,104.193.88.0/22,DIRECT,no-resolve
+IP-CIDR,106.12.0.0/15,DIRECT,no-resolve
+IP-CIDR,114.28.224.0/20,DIRECT,no-resolve
+IP-CIDR,119.63.192.0/21,DIRECT,no-resolve
+IP-CIDR,180.76.0.0/24,DIRECT,no-resolve
+IP-CIDR,180.76.0.0/16,DIRECT,no-resolve
+IP-CIDR,182.61.0.0/16,DIRECT,no-resolve
+IP-CIDR,185.10.104.0/22,DIRECT,no-resolve
+IP-CIDR,202.46.48.0/20,DIRECT,no-resolve
+IP-CIDR,203.90.238.0/24,DIRECT,no-resolve
+IP-CIDR,43.254.0.0/22,DIRECT,no-resolve
+IP-CIDR,45.249.212.0/22,DIRECT,no-resolve
+IP-CIDR,49.4.0.0/17,DIRECT,no-resolve
+IP-CIDR,78.101.192.0/19,DIRECT,no-resolve
+IP-CIDR,78.101.224.0/20,DIRECT,no-resolve
+IP-CIDR,81.52.161.0/24,DIRECT,no-resolve
+IP-CIDR,85.97.220.0/22,DIRECT,no-resolve
+IP-CIDR,103.31.200.0/22,DIRECT,no-resolve
+IP-CIDR,103.69.140.0/23,DIRECT,no-resolve
+IP-CIDR,103.218.216.0/22,DIRECT,no-resolve
+IP-CIDR,114.115.128.0/17,DIRECT,no-resolve
+IP-CIDR,114.116.0.0/16,DIRECT,no-resolve
+IP-CIDR,116.63.128.0/18,DIRECT,no-resolve
+IP-CIDR,116.66.184.0/22,DIRECT,no-resolve
+IP-CIDR,116.71.96.0/20,DIRECT,no-resolve
+IP-CIDR,116.71.128.0/21,DIRECT,no-resolve
+IP-CIDR,116.71.136.0/22,DIRECT,no-resolve
+IP-CIDR,116.71.141.0/24,DIRECT,no-resolve
+IP-CIDR,116.71.142.0/24,DIRECT,no-resolve
+IP-CIDR,116.71.243.0/24,DIRECT,no-resolve
+IP-CIDR,116.71.244.0/24,DIRECT,no-resolve
+IP-CIDR,116.71.251.0/24,DIRECT,no-resolve
+IP-CIDR,117.78.0.0/18,DIRECT,no-resolve
+IP-CIDR,119.3.0.0/16,DIRECT,no-resolve
+IP-CIDR,119.8.0.0/21,DIRECT,no-resolve
+IP-CIDR,119.8.32.0/19,DIRECT,no-resolve
+IP-CIDR,121.36.0.0/17,DIRECT,no-resolve
+IP-CIDR,121.36.128.0/18,DIRECT,no-resolve
+IP-CIDR,121.37.0.0/17,DIRECT,no-resolve
+IP-CIDR,122.112.128.0/17,DIRECT,no-resolve
+IP-CIDR,139.9.0.0/18,DIRECT,no-resolve
+IP-CIDR,139.9.64.0/19,DIRECT,no-resolve
+IP-CIDR,139.9.100.0/22,DIRECT,no-resolve
+IP-CIDR,139.9.104.0/21,DIRECT,no-resolve
+IP-CIDR,139.9.112.0/20,DIRECT,no-resolve
+IP-CIDR,139.9.128.0/18,DIRECT,no-resolve
+IP-CIDR,139.9.192.0/19,DIRECT,no-resolve
+IP-CIDR,139.9.224.0/20,DIRECT,no-resolve
+IP-CIDR,139.9.240.0/21,DIRECT,no-resolve
+IP-CIDR,139.9.248.0/22,DIRECT,no-resolve
+IP-CIDR,139.159.128.0/19,DIRECT,no-resolve
+IP-CIDR,139.159.160.0/22,DIRECT,no-resolve
+IP-CIDR,139.159.164.0/23,DIRECT,no-resolve
+IP-CIDR,139.159.168.0/21,DIRECT,no-resolve
+IP-CIDR,139.159.176.0/20,DIRECT,no-resolve
+IP-CIDR,139.159.192.0/18,DIRECT,no-resolve
+IP-CIDR,159.138.0.0/18,DIRECT,no-resolve
+IP-CIDR,159.138.64.0/21,DIRECT,no-resolve
+IP-CIDR,159.138.79.0/24,DIRECT,no-resolve
+IP-CIDR,159.138.80.0/20,DIRECT,no-resolve
+IP-CIDR,159.138.96.0/20,DIRECT,no-resolve
+IP-CIDR,159.138.112.0/21,DIRECT,no-resolve
+IP-CIDR,159.138.125.0/24,DIRECT,no-resolve
+IP-CIDR,159.138.128.0/18,DIRECT,no-resolve
+IP-CIDR,159.138.192.0/20,DIRECT,no-resolve
+IP-CIDR,159.138.223.0/24,DIRECT,no-resolve
+IP-CIDR,159.138.224.0/19,DIRECT,no-resolve
+IP-CIDR,168.195.92.0/22,DIRECT,no-resolve
+IP-CIDR,185.176.76.0/22,DIRECT,no-resolve
+IP-CIDR,197.199.0.0/18,DIRECT,no-resolve
+IP-CIDR,197.210.163.0/24,DIRECT,no-resolve
+IP-CIDR,197.252.1.0/24,DIRECT,no-resolve
+IP-CIDR,197.252.2.0/23,DIRECT,no-resolve
+IP-CIDR,197.252.4.0/22,DIRECT,no-resolve
+IP-CIDR,197.252.8.0/21,DIRECT,no-resolve
+IP-CIDR,200.32.52.0/24,DIRECT,no-resolve
+IP-CIDR,200.32.54.0/24,DIRECT,no-resolve
+IP-CIDR,200.32.57.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.0.0/22,DIRECT,no-resolve
+IP-CIDR,203.135.4.0/23,DIRECT,no-resolve
+IP-CIDR,203.135.8.0/23,DIRECT,no-resolve
+IP-CIDR,203.135.11.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.13.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.20.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.22.0/23,DIRECT,no-resolve
+IP-CIDR,203.135.24.0/23,DIRECT,no-resolve
+IP-CIDR,203.135.26.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.29.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.33.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.38.0/23,DIRECT,no-resolve
+IP-CIDR,203.135.40.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.43.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.48.0/24,DIRECT,no-resolve
+IP-CIDR,203.135.50.0/24,DIRECT,no-resolve
+IP-CIDR,42.186.0.0/16,DIRECT,no-resolve
+IP-CIDR,45.127.128.0/22,DIRECT,no-resolve
+IP-CIDR,45.195.24.0/24,DIRECT,no-resolve
+IP-CIDR,45.253.132.0/22,DIRECT,no-resolve
+IP-CIDR,45.253.240.0/22,DIRECT,no-resolve
+IP-CIDR,45.254.48.0/23,DIRECT,no-resolve
+IP-CIDR,59.111.0.0/20,DIRECT,no-resolve
+IP-CIDR,59.111.128.0/17,DIRECT,no-resolve
+IP-CIDR,103.71.120.0/21,DIRECT,no-resolve
+IP-CIDR,103.71.128.0/22,DIRECT,no-resolve
+IP-CIDR,103.71.196.0/22,DIRECT,no-resolve
+IP-CIDR,103.71.200.0/22,DIRECT,no-resolve
+IP-CIDR,103.72.12.0/22,DIRECT,no-resolve
+IP-CIDR,103.72.18.0/23,DIRECT,no-resolve
+IP-CIDR,103.72.24.0/22,DIRECT,no-resolve
+IP-CIDR,103.72.28.0/23,DIRECT,no-resolve
+IP-CIDR,103.72.38.0/23,DIRECT,no-resolve
+IP-CIDR,103.72.40.0/23,DIRECT,no-resolve
+IP-CIDR,103.72.44.0/22,DIRECT,no-resolve
+IP-CIDR,103.72.48.0/21,DIRECT,no-resolve
+IP-CIDR,103.72.128.0/21,DIRECT,no-resolve
+IP-CIDR,103.74.24.0/21,DIRECT,no-resolve
+IP-CIDR,103.74.48.0/22,DIRECT,no-resolve
+IP-CIDR,103.126.92.0/22,DIRECT,no-resolve
+IP-CIDR,103.129.252.0/22,DIRECT,no-resolve
+IP-CIDR,103.131.252.0/22,DIRECT,no-resolve
+IP-CIDR,103.135.240.0/22,DIRECT,no-resolve
+IP-CIDR,103.196.64.0/22,DIRECT,no-resolve
+IP-CIDR,106.2.32.0/19,DIRECT,no-resolve
+IP-CIDR,106.2.64.0/18,DIRECT,no-resolve
+IP-CIDR,114.113.196.0/22,DIRECT,no-resolve
+IP-CIDR,114.113.200.0/22,DIRECT,no-resolve
+IP-CIDR,115.236.112.0/20,DIRECT,no-resolve
+IP-CIDR,115.238.76.0/22,DIRECT,no-resolve
+IP-CIDR,123.58.160.0/19,DIRECT,no-resolve
+IP-CIDR,223.252.192.0/19,DIRECT,no-resolve
+IP-CIDR,101.198.128.0/18,DIRECT,no-resolve
+IP-CIDR,101.198.192.0/19,DIRECT,no-resolve
+IP-CIDR,101.199.196.0/22,DIRECT,no-resolve
+DOMAIN-SUFFIX,smtp,DIRECT
+DOMAIN-KEYWORD,aria2,DIRECT
+GEOIP,CN,DIRECT
 FINAL,🐟 漏网之鱼
