@@ -1,5 +1,5 @@
-host-suffix, apple.com, direct
-host-suffix, notion.so, 🚀 国外流量
+DOMAIN-SUFFIX,apple.com,direct
+DOMAIN-SUFFIX,notion.so,🚀 国外流量
 DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,crashlytics.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
@@ -164,7 +164,6 @@ DOMAIN-SUFFIX,99.100.in-addr.arpa,DIRECT
 DOMAIN-SUFFIX,a.e.f.ip6.arpa,DIRECT
 DOMAIN-SUFFIX,acl4.ssr,DIRECT
 DOMAIN-SUFFIX,b.e.f.ip6.arpa,DIRECT
-DOMAIN-SUFFIX,captive.apple.com,DIRECT
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
 DOMAIN-SUFFIX,d.f.ip6.arpa,DIRECT
 DOMAIN-SUFFIX,hiwifi.com,DIRECT
@@ -590,13 +589,7 @@ DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🎥 Netflix
 DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 Netflix
 DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 Netflix
 DOMAIN-KEYWORD,netflixdnstest,🎥 Netflix
-DOMAIN,hls-amt.itunes.apple.com, direct
-DOMAIN,hls.itunes.apple.com, direct
-DOMAIN,np-edge.itunes.apple.com, direct
-DOMAIN,play-edge.itunes.apple.com, direct
 DOMAIN,tv.applemusic.com, direct
-DOMAIN,uts-api.itunes.apple.com, direct
-DOMAIN-SUFFIX,tv.apple.com, direct
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,🚀 国外流量
 DOMAIN,api.okzy.tv,🚀 国外流量
 DOMAIN,apple.comscoreresearch.com,🚀 国外流量
@@ -1572,7 +1565,6 @@ DOMAIN-SUFFIX,tik-tokapi.com,🚀 国外流量
 DOMAIN-SUFFIX,timestalks.com,🚀 国外流量
 DOMAIN-SUFFIX,tospotify.com,🚀 国外流量
 DOMAIN-SUFFIX,ttvnw.net,🚀 国外流量
-DOMAIN-SUFFIX,tv.apple.com,🚀 国外流量
 DOMAIN-SUFFIX,tvb.com,🚀 国外流量
 DOMAIN-SUFFIX,tvb.com.au,🚀 国外流量
 DOMAIN-SUFFIX,tvbanywhere.com,🚀 国外流量
@@ -3921,9 +3913,6 @@ DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
 DOMAIN-KEYWORD,onedrive,Ⓜ️ 微软服务
 DOMAIN-KEYWORD,skydrive,Ⓜ️ 微软服务
 host-keyword, apple-support.akadns.net, direct
-DOMAIN-KEYWORD,apple.com.akadns.net, direct
-DOMAIN-KEYWORD,apple.com.edgekey.net, direct
-DOMAIN-KEYWORD,buy.itunes.apple.com, direct
 DOMAIN-KEYWORD,smp-device, direct
 DOMAIN-KEYWORD,testflight, direct
 DOMAIN-KEYWORD,icloud.com.akadns.net, direct
@@ -4658,7 +4647,6 @@ DOMAIN-SUFFIX,gfwlist.start,🚀 国外流量
 DOMAIN-SUFFIX,000webhost.com,🚀 国外流量
 DOMAIN-SUFFIX,030buy.com,🚀 国外流量
 DOMAIN-SUFFIX,0rz.tw,🚀 国外流量
-DOMAIN-SUFFIX,1-apple.com.tw,🚀 国外流量
 DOMAIN-SUFFIX,10.tt,🚀 国外流量
 DOMAIN-SUFFIX,1000giri.net,🚀 国外流量
 DOMAIN-SUFFIX,100ke.org,🚀 国外流量
