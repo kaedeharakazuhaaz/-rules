@@ -3381,7 +3381,6 @@ HOST-SUFFIX,webankcdn.net,DIRECT
 HOST-SUFFIX,webgame163.com,DIRECT
 HOST-SUFFIX,webofknowledge.com,DIRECT
 HOST-SUFFIX,webterren.com,DIRECT
-HOST-SUFFIX,wechat.com,DIRECT
 HOST-SUFFIX,wegame.com,DIRECT
 HOST-SUFFIX,wegamedeveloper.com,DIRECT
 HOST-SUFFIX,wegameplus.com,DIRECT
@@ -3390,8 +3389,6 @@ HOST-SUFFIX,weicaifu.com,DIRECT
 HOST-SUFFIX,weidian.com,DIRECT
 HOST-SUFFIX,weilaicaijing.com,DIRECT
 HOST-SUFFIX,weilaiyunxiao.com,DIRECT
-HOST-SUFFIX,weixinbridge.com,DIRECT
-HOST-SUFFIX,weixing.com,DIRECT
 HOST-SUFFIX,weiyangx.com,DIRECT
 HOST-SUFFIX,weiyun.com,DIRECT
 HOST-SUFFIX,welltrend-edu.com,DIRECT
@@ -4339,8 +4336,6 @@ DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
 DOMAIN-SUFFIX,tencent.com,DIRECT
 DOMAIN-SUFFIX,tencentmind.com,DIRECT
 DOMAIN-SUFFIX,tenpay.com,DIRECT
-DOMAIN-SUFFIX,wechat.com,DIRECT
-DOMAIN-SUFFIX,weixin.com,DIRECT
 DOMAIN-SUFFIX,weiyun.com,DIRECT
 DOMAIN-SUFFIX,appsimg.com,DIRECT
 DOMAIN-SUFFIX,appvipshop.com,DIRECT
