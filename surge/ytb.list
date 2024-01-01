@@ -180,9 +180,6 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-WILDCARD,youtube.*
-DOMAIN-WILDCARD,youtube.*.*
-DOMAIN-WILDCARD,youtube.com.*
 DOMAIN-KEYWORD,youtube
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
