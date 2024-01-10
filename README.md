@@ -1,2 +1,1 @@
-## 自用规则合集 for Surge
-
+## 自用规则合集 for Surge/Stash
